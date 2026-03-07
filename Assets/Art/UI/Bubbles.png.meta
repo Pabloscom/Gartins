@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: d6c5fc55ff601844d86b04ca3dec867a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1023054598231540903
+    second: ChatGPT Image 4 mar 2026, 04_23_55 a.m._0
+  - first:
+      213: -8864263308277407263
+    second: ChatGPT Image 4 mar 2026, 04_23_55 a.m._1
+  - first:
+      213: -6644949197825075166
+    second: ChatGPT Image 4 mar 2026, 04_23_55 a.m._2
+  - first:
+      213: 2406519780838127207
+    second: ChatGPT Image 4 mar 2026, 04_23_55 a.m._3
+  - first:
+      213: 7884747625399314895
+    second: ChatGPT Image 4 mar 2026, 04_23_55 a.m._4
+  - first:
+      213: 4126286124584424741
+    second: ChatGPT Image 4 mar 2026, 04_23_55 a.m._5
+  - first:
+      213: -869782422066993998
+    second: ChatGPT Image 4 mar 2026, 04_23_55 a.m._6
+  - first:
+      213: 6586377643771994187
+    second: ChatGPT Image 4 mar 2026, 04_23_55 a.m._7
+  - first:
+      213: 8294219887751712077
+    second: ChatGPT Image 4 mar 2026, 04_23_55 a.m._8
+  - first:
+      213: 6544705638436473438
+    second: ChatGPT Image 4 mar 2026, 04_23_55 a.m._9
+  - first:
+      213: 1191016428834927070
+    second: ChatGPT Image 4 mar 2026, 04_23_55 a.m._10
+  - first:
+      213: 4875042793948956801
+    second: ChatGPT Image 4 mar 2026, 04_23_55 a.m._11
+  - first:
+      213: 2553982358880946907
+    second: ChatGPT Image 4 mar 2026, 04_23_55 a.m._12
+  - first:
+      213: -2991625573117144194
+    second: ChatGPT Image 4 mar 2026, 04_23_55 a.m._13
+  - first:
+      213: 1643004543543032228
+    second: ChatGPT Image 4 mar 2026, 04_23_55 a.m._14
+  - first:
+      213: -7760505232177003991
+    second: ChatGPT Image 4 mar 2026, 04_23_55 a.m._15
+  - first:
+      213: 6203423165645403672
+    second: ChatGPT Image 4 mar 2026, 04_23_55 a.m._16
+  - first:
+      213: -1411187998748659354
+    second: ChatGPT Image 4 mar 2026, 04_23_55 a.m._17
+  - first:
+      213: -7000846315528509767
+    second: ChatGPT Image 4 mar 2026, 04_23_55 a.m._18
+  - first:
+      213: -7329210360645647479
+    second: ChatGPT Image 4 mar 2026, 04_23_55 a.m._19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bubbles_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 350
+        width: 410
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4540c4d0ecce1da48baa8b2a98e9baed
+      internalID: 1990681851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubbles_1
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 352
+        width: 419
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d652ec314120a4693a7c5d1f68c076
+      internalID: 1598545604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubbles_2
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 359
+        width: 418
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcde3eaeaf512594b90eea2a546e1161
+      internalID: -1257098781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2e166fe76d90e6b4898ee19b322a7241
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":1.0},"gridSpriteSize":{"x":512.0,"y":1024.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Bubbles_0: 1990681851
+      Bubbles_1: 1598545604
+      Bubbles_2: -1257098781
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

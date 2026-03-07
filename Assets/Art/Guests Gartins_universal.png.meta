@@ -1,0 +1,5590 @@
+fileFormatVersion: 2
+guid: 42e1e9cc6ac020340b06723ba29d2987
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1192814840555013688
+    second: Guests Gartins_universal_0
+  - first:
+      213: 8615722687112776172
+    second: Guests Gartins_universal_1
+  - first:
+      213: -2008930873822295578
+    second: Guests Gartins_universal_2
+  - first:
+      213: 2908610430771309581
+    second: Guests Gartins_universal_3
+  - first:
+      213: 5497138576596549928
+    second: Guests Gartins_universal_4
+  - first:
+      213: 3789197653443328813
+    second: Guests Gartins_universal_5
+  - first:
+      213: 8290332819334596169
+    second: Guests Gartins_universal_6
+  - first:
+      213: 3976534047095462033
+    second: Guests Gartins_universal_7
+  - first:
+      213: 3804070737376650085
+    second: Guests Gartins_universal_8
+  - first:
+      213: -5434496696733877427
+    second: Guests Gartins_universal_9
+  - first:
+      213: 2570464417577963786
+    second: Guests Gartins_universal_10
+  - first:
+      213: 35829338683557047
+    second: Guests Gartins_universal_11
+  - first:
+      213: 4623043092593819616
+    second: Guests Gartins_universal_12
+  - first:
+      213: 2262511170806319359
+    second: Guests Gartins_universal_13
+  - first:
+      213: -7886805277319363947
+    second: Guests Gartins_universal_14
+  - first:
+      213: 7666353602187899097
+    second: Guests Gartins_universal_15
+  - first:
+      213: 2259222497891282200
+    second: Guests Gartins_universal_16
+  - first:
+      213: 306679212783207478
+    second: Guests Gartins_universal_17
+  - first:
+      213: -4871044429174687101
+    second: Guests Gartins_universal_18
+  - first:
+      213: -1791497608207643976
+    second: Guests Gartins_universal_19
+  - first:
+      213: -5449450592260481713
+    second: Guests Gartins_universal_20
+  - first:
+      213: -7540587522580228771
+    second: Guests Gartins_universal_21
+  - first:
+      213: -8155072411279723795
+    second: Guests Gartins_universal_22
+  - first:
+      213: -5204791878813575121
+    second: Guests Gartins_universal_23
+  - first:
+      213: 6347445897283813471
+    second: Guests Gartins_universal_24
+  - first:
+      213: 7512287642660653493
+    second: Guests Gartins_universal_25
+  - first:
+      213: 9137329182398265987
+    second: Guests Gartins_universal_26
+  - first:
+      213: -1536283901716576734
+    second: Guests Gartins_universal_27
+  - first:
+      213: 7099647863241837649
+    second: Guests Gartins_universal_28
+  - first:
+      213: 1250716388112177544
+    second: Guests Gartins_universal_29
+  - first:
+      213: 1428551598667644242
+    second: Guests Gartins_universal_30
+  - first:
+      213: 3366781110196914996
+    second: Guests Gartins_universal_31
+  - first:
+      213: 9043617793299874559
+    second: Guests Gartins_universal_32
+  - first:
+      213: -7253748312839152571
+    second: Guests Gartins_universal_33
+  - first:
+      213: -5402702862017742957
+    second: Guests Gartins_universal_34
+  - first:
+      213: 5851467363944299553
+    second: Guests Gartins_universal_35
+  - first:
+      213: -7804689984113716963
+    second: Guests Gartins_universal_36
+  - first:
+      213: 5731036808063820954
+    second: Guests Gartins_universal_37
+  - first:
+      213: -601890571428753448
+    second: Guests Gartins_universal_38
+  - first:
+      213: 3334993535170139918
+    second: Guests Gartins_universal_39
+  - first:
+      213: -3999196183959889759
+    second: Guests Gartins_universal_40
+  - first:
+      213: 90933815636676705
+    second: Guests Gartins_universal_41
+  - first:
+      213: 3665054524169828786
+    second: Guests Gartins_universal_42
+  - first:
+      213: 2818709323497595202
+    second: Guests Gartins_universal_43
+  - first:
+      213: 8956496059747591886
+    second: Guests Gartins_universal_44
+  - first:
+      213: -8519189886546495186
+    second: Guests Gartins_universal_45
+  - first:
+      213: 6879926217833914398
+    second: Guests Gartins_universal_46
+  - first:
+      213: -8473250121285215818
+    second: Guests Gartins_universal_47
+  - first:
+      213: -2280460441335334494
+    second: Guests Gartins_universal_48
+  - first:
+      213: -2797564582089343523
+    second: Guests Gartins_universal_49
+  - first:
+      213: -1646361201748759815
+    second: Guests Gartins_universal_50
+  - first:
+      213: -6244959740626210975
+    second: Guests Gartins_universal_51
+  - first:
+      213: -8169048574867800641
+    second: Guests Gartins_universal_52
+  - first:
+      213: 2231940411504103060
+    second: Guests Gartins_universal_53
+  - first:
+      213: -1431506359142649921
+    second: Guests Gartins_universal_54
+  - first:
+      213: 5833704053335296508
+    second: Guests Gartins_universal_55
+  - first:
+      213: -4144682089649898852
+    second: Guests Gartins_universal_56
+  - first:
+      213: -6701668656720872805
+    second: Guests Gartins_universal_57
+  - first:
+      213: -7108974151134415894
+    second: Guests Gartins_universal_58
+  - first:
+      213: 2403722826007038116
+    second: Guests Gartins_universal_59
+  - first:
+      213: 9050582924261703147
+    second: Guests Gartins_universal_60
+  - first:
+      213: -8395835874146255190
+    second: Guests Gartins_universal_61
+  - first:
+      213: -2101699216980438684
+    second: Guests Gartins_universal_62
+  - first:
+      213: -6323764127851638828
+    second: Guests Gartins_universal_63
+  - first:
+      213: 83561772022751976
+    second: Guests Gartins_universal_64
+  - first:
+      213: 2398751329306893340
+    second: Guests Gartins_universal_65
+  - first:
+      213: -2624587494281522204
+    second: Guests Gartins_universal_66
+  - first:
+      213: -6070077846624669407
+    second: Guests Gartins_universal_67
+  - first:
+      213: 4559935230378919015
+    second: Guests Gartins_universal_68
+  - first:
+      213: 4889036959290704095
+    second: Guests Gartins_universal_69
+  - first:
+      213: -204691761598595320
+    second: Guests Gartins_universal_70
+  - first:
+      213: -2617379404354646297
+    second: Guests Gartins_universal_71
+  - first:
+      213: -3219299891497811283
+    second: Guests Gartins_universal_72
+  - first:
+      213: 7838576757019652130
+    second: Guests Gartins_universal_73
+  - first:
+      213: 6563469106758166757
+    second: Guests Gartins_universal_74
+  - first:
+      213: -9079544299565251932
+    second: Guests Gartins_universal_75
+  - first:
+      213: 3141511876163056843
+    second: Guests Gartins_universal_76
+  - first:
+      213: -2139162667267769273
+    second: Guests Gartins_universal_77
+  - first:
+      213: 7687334672885378231
+    second: Guests Gartins_universal_78
+  - first:
+      213: -4449114540975728886
+    second: Guests Gartins_universal_79
+  - first:
+      213: -3809926007483556218
+    second: Guests Gartins_universal_80
+  - first:
+      213: 1749700766610081066
+    second: Guests Gartins_universal_81
+  - first:
+      213: -2518322326389582469
+    second: Guests Gartins_universal_82
+  - first:
+      213: -332965021613399814
+    second: Guests Gartins_universal_83
+  - first:
+      213: 4577309093389180539
+    second: Guests Gartins_universal_84
+  - first:
+      213: -7701528018697269482
+    second: Guests Gartins_universal_85
+  - first:
+      213: 875701907488484084
+    second: Guests Gartins_universal_86
+  - first:
+      213: 4141235233929771017
+    second: Guests Gartins_universal_87
+  - first:
+      213: -5412070307793667549
+    second: Guests Gartins_universal_88
+  - first:
+      213: 9016039857174160482
+    second: Guests Gartins_universal_89
+  - first:
+      213: -7655538213950325664
+    second: Guests Gartins_universal_90
+  - first:
+      213: -2098037737967121329
+    second: Guests Gartins_universal_91
+  - first:
+      213: -7404558449464974004
+    second: Guests Gartins_universal_92
+  - first:
+      213: 2218185682292382031
+    second: Guests Gartins_universal_93
+  - first:
+      213: -3762137006501884189
+    second: Guests Gartins_universal_94
+  - first:
+      213: 8728872972097751627
+    second: Guests Gartins_universal_95
+  - first:
+      213: 3349386242307697819
+    second: Guests Gartins_universal_96
+  - first:
+      213: 8687332565341669199
+    second: Guests Gartins_universal_97
+  - first:
+      213: 1774914971449665573
+    second: Guests Gartins_universal_98
+  - first:
+      213: 1054729046685022946
+    second: Guests Gartins_universal_99
+  - first:
+      213: -985504441597174599
+    second: Guests Gartins_universal_100
+  - first:
+      213: 6924851131038483914
+    second: Guests Gartins_universal_101
+  - first:
+      213: 2411036989654446582
+    second: Guests Gartins_universal_102
+  - first:
+      213: -6213640228090445411
+    second: Guests Gartins_universal_103
+  - first:
+      213: 7533411853285818633
+    second: Guests Gartins_universal_104
+  - first:
+      213: 2177664852717085756
+    second: Guests Gartins_universal_105
+  - first:
+      213: -2815799178756921706
+    second: Guests Gartins_universal_106
+  - first:
+      213: 107683929304805041
+    second: Guests Gartins_universal_107
+  - first:
+      213: -8970476937656897576
+    second: Guests Gartins_universal_108
+  - first:
+      213: 6246838508010844921
+    second: Guests Gartins_universal_109
+  - first:
+      213: -128471187767243918
+    second: Guests Gartins_universal_110
+  - first:
+      213: 6346478166120561784
+    second: Guests Gartins_universal_111
+  - first:
+      213: 561207523587515667
+    second: Guests Gartins_universal_112
+  - first:
+      213: -5964918779629247222
+    second: Guests Gartins_universal_113
+  - first:
+      213: 5958579281840214871
+    second: Guests Gartins_universal_114
+  - first:
+      213: 6543240587794276929
+    second: Guests Gartins_universal_115
+  - first:
+      213: -2714512228977624566
+    second: Guests Gartins_universal_116
+  - first:
+      213: -7059325935567642812
+    second: Guests Gartins_universal_117
+  - first:
+      213: 3122859182081169618
+    second: Guests Gartins_universal_118
+  - first:
+      213: 5597614927626390813
+    second: Guests Gartins_universal_119
+  - first:
+      213: -7419339367044796714
+    second: Guests Gartins_universal_120
+  - first:
+      213: 508625962792114318
+    second: Guests Gartins_universal_121
+  - first:
+      213: -2500121686219714753
+    second: Guests Gartins_universal_122
+  - first:
+      213: 6332224486375411863
+    second: Guests Gartins_universal_123
+  - first:
+      213: 696705183779383223
+    second: Guests Gartins_universal_124
+  - first:
+      213: -1189334527881317911
+    second: Guests Gartins_universal_125
+  - first:
+      213: -308091322066529212
+    second: Guests Gartins_universal_126
+  - first:
+      213: 7372685879671084279
+    second: Guests Gartins_universal_127
+  - first:
+      213: -6592789326149019104
+    second: Guests Gartins_universal_128
+  - first:
+      213: 1134581234543460398
+    second: Guests Gartins_universal_129
+  - first:
+      213: -734236836903328699
+    second: Guests Gartins_universal_130
+  - first:
+      213: -6869179986997414400
+    second: Guests Gartins_universal_131
+  - first:
+      213: -168605068402839230
+    second: Guests Gartins_universal_132
+  - first:
+      213: 1151665775920780419
+    second: Guests Gartins_universal_133
+  - first:
+      213: 6950053588769599333
+    second: Guests Gartins_universal_134
+  - first:
+      213: -3646454038191764130
+    second: Guests Gartins_universal_135
+  - first:
+      213: -7340332182889462720
+    second: Guests Gartins_universal_136
+  - first:
+      213: 9067364377920731425
+    second: Guests Gartins_universal_137
+  - first:
+      213: -6761086532515711929
+    second: Guests Gartins_universal_138
+  - first:
+      213: 7448669396648857659
+    second: Guests Gartins_universal_139
+  - first:
+      213: -6258976248877207005
+    second: Guests Gartins_universal_140
+  - first:
+      213: 6121295998094040640
+    second: Guests Gartins_universal_141
+  - first:
+      213: 1493441153120759156
+    second: Guests Gartins_universal_142
+  - first:
+      213: -8686384904544522656
+    second: Guests Gartins_universal_143
+  - first:
+      213: -5720956499640327119
+    second: Guests Gartins_universal_144
+  - first:
+      213: 7606168032938668904
+    second: Guests Gartins_universal_145
+  - first:
+      213: 8579586380991694002
+    second: Guests Gartins_universal_146
+  - first:
+      213: 7461066895630046275
+    second: Guests Gartins_universal_147
+  - first:
+      213: 7885035876525464534
+    second: Guests Gartins_universal_148
+  - first:
+      213: 9192752328037588530
+    second: Guests Gartins_universal_149
+  - first:
+      213: 6694907625804733397
+    second: Guests Gartins_universal_150
+  - first:
+      213: -490494213672862088
+    second: Guests Gartins_universal_151
+  - first:
+      213: 3100035472601961695
+    second: Guests Gartins_universal_152
+  - first:
+      213: -6880643971651474822
+    second: Guests Gartins_universal_153
+  - first:
+      213: 9067661146158370372
+    second: Guests Gartins_universal_154
+  - first:
+      213: -4024630677545703980
+    second: Guests Gartins_universal_155
+  - first:
+      213: -1865655523991920071
+    second: Guests Gartins_universal_156
+  - first:
+      213: 5563349698452832426
+    second: Guests Gartins_universal_157
+  - first:
+      213: -7596994494198412201
+    second: Guests Gartins_universal_158
+  - first:
+      213: 5267800437886963684
+    second: Guests Gartins_universal_159
+  - first:
+      213: -147189170279616278
+    second: Guests Gartins_universal_160
+  - first:
+      213: 437458189585987684
+    second: Guests Gartins_universal_161
+  - first:
+      213: 3238177019662916958
+    second: Guests Gartins_universal_162
+  - first:
+      213: 8327010710558669766
+    second: Guests Gartins_universal_163
+  - first:
+      213: -8021662844498578605
+    second: Guests Gartins_universal_164
+  - first:
+      213: -6809442805367252822
+    second: Guests Gartins_universal_165
+  - first:
+      213: -4203691732252261834
+    second: Guests Gartins_universal_166
+  - first:
+      213: -5045085636159041346
+    second: Guests Gartins_universal_167
+  - first:
+      213: -8823489778565222346
+    second: Guests Gartins_universal_168
+  - first:
+      213: -4857975758690924676
+    second: Guests Gartins_universal_169
+  - first:
+      213: -8945800094249552155
+    second: Guests Gartins_universal_170
+  - first:
+      213: -7799472314810744042
+    second: Guests Gartins_universal_171
+  - first:
+      213: 8583569505811761113
+    second: Guests Gartins_universal_172
+  - first:
+      213: 5456539515444756564
+    second: Guests Gartins_universal_173
+  - first:
+      213: -6002570899072575096
+    second: Guests Gartins_universal_174
+  - first:
+      213: -2613882895793760247
+    second: Guests Gartins_universal_175
+  - first:
+      213: 4668641145884030256
+    second: Guests Gartins_universal_176
+  - first:
+      213: 8847576758411951320
+    second: Guests Gartins_universal_177
+  - first:
+      213: -7380054700453097409
+    second: Guests Gartins_universal_178
+  - first:
+      213: -8930689622022804827
+    second: Guests Gartins_universal_179
+  - first:
+      213: 3377255453118810969
+    second: Guests Gartins_universal_180
+  - first:
+      213: 6835079187334601579
+    second: Guests Gartins_universal_181
+  - first:
+      213: -884638566606686821
+    second: Guests Gartins_universal_182
+  - first:
+      213: -4603644792564414128
+    second: Guests Gartins_universal_183
+  - first:
+      213: 1686904929330507980
+    second: Guests Gartins_universal_184
+  - first:
+      213: 2138257075543595184
+    second: Guests Gartins_universal_185
+  - first:
+      213: 2699564187476122677
+    second: Guests Gartins_universal_186
+  - first:
+      213: 6951710811331580318
+    second: Guests Gartins_universal_187
+  - first:
+      213: -8730074432413254655
+    second: Guests Gartins_universal_188
+  - first:
+      213: -8810671300837934302
+    second: Guests Gartins_universal_189
+  - first:
+      213: -1234474252195837138
+    second: Guests Gartins_universal_190
+  - first:
+      213: -5135690453451436357
+    second: Guests Gartins_universal_191
+  - first:
+      213: -4697694085653609981
+    second: Guests Gartins_universal_192
+  - first:
+      213: -9112025185738320040
+    second: Guests Gartins_universal_193
+  - first:
+      213: -6767548726388758587
+    second: Guests Gartins_universal_194
+  - first:
+      213: 8900364710310533859
+    second: Guests Gartins_universal_195
+  - first:
+      213: 2229914377584809437
+    second: Guests Gartins_universal_196
+  - first:
+      213: -8011408436365436755
+    second: Guests Gartins_universal_197
+  - first:
+      213: -6936743245086669338
+    second: Guests Gartins_universal_198
+  - first:
+      213: -4982967727780365177
+    second: Guests Gartins_universal_199
+  - first:
+      213: 8204301717889207227
+    second: Guests Gartins_universal_200
+  - first:
+      213: -404185393521796686
+    second: Guests Gartins_universal_201
+  - first:
+      213: 6631802867746258276
+    second: Guests Gartins_universal_202
+  - first:
+      213: -386708647709269880
+    second: Guests Gartins_universal_203
+  - first:
+      213: -8209269123102802163
+    second: Guests Gartins_universal_204
+  - first:
+      213: -1814014621046456825
+    second: Guests Gartins_universal_205
+  - first:
+      213: 5779760671142768091
+    second: Guests Gartins_universal_206
+  - first:
+      213: 6882821983950122119
+    second: Guests Gartins_universal_207
+  - first:
+      213: 896551583917931123
+    second: Guests Gartins_universal_208
+  - first:
+      213: -7103988519647173074
+    second: Guests Gartins_universal_209
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guests Gartins_universal_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1282
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836881617cabd8010800000000000000
+      internalID: 1192814840555013688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1281
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce981a8c222319770800000000000000
+      internalID: 8615722687112776172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1281
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9c1879308de14e0800000000000000
+      internalID: -2008930873822295578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1281
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cae1cb6c57d5820800000000000000
+      internalID: 2908610430771309581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1281
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821422b0962c94c40800000000000000
+      internalID: 5497138576596549928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1281
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bbb35903fe59430800000000000000
+      internalID: 3789197653443328813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1281
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946833e66cd2d0370800000000000000
+      internalID: 8290332819334596169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1217
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1981f52b5ac7f2730800000000000000
+      internalID: 3976534047095462033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1217
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5632bc94e26cac430800000000000000
+      internalID: 3804070737376650085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1217
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bb42a2c0ac494b0800000000000000
+      internalID: -5434496696733877427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1217
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a011485d4cf1ca320800000000000000
+      internalID: 2570464417577963786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1217
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b445ccf79a4f7000800000000000000
+      internalID: 35829338683557047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1217
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efb063e239582040800000000000000
+      internalID: 4623043092593819616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1217
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8834c2ced066f10800000000000000
+      internalID: 2262511170806319359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1153
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59204b8e2607c8290800000000000000
+      internalID: -7886805277319363947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1153
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d032fcabfb546a60800000000000000
+      internalID: 7666353602187899097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1153
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d616754ee5a5f10800000000000000
+      internalID: 2259222497891282200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1153
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63480f18e1b814400800000000000000
+      internalID: 306679212783207478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1153
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ab5e946e2966cb0800000000000000
+      internalID: -4871044429174687101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1153
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba42d6ca625327e0800000000000000
+      internalID: -1791497608207643976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1153
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d954b0f89af54b0800000000000000
+      internalID: -5449450592260481713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1089
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55dcd699937a5790800000000000000
+      internalID: -7540587522580228771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1089
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2751079dc53de80800000000000000
+      internalID: -8155072411279723795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1089
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f289a75cc5dd4c7b0800000000000000
+      internalID: -5204791878813575121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1089
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50cc92d968a61850800000000000000
+      internalID: 6347445897283813471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1089
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b948572fc1014860800000000000000
+      internalID: 7512287642660653493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1089
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ab8a0da705ece70800000000000000
+      internalID: 9137329182398265987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1089
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22648045ee50eaae0800000000000000
+      internalID: -1536283901716576734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1026
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c04e6bd14078260800000000000000
+      internalID: 7099647863241837649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1023
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8899f2cadef6b5110800000000000000
+      internalID: 1250716388112177544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1023
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25db6e53c1c33d310800000000000000
+      internalID: 1428551598667644242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1023
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b48cde49539be20800000000000000
+      internalID: 3366781110196914996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_32
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1023
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff28a06c772618d70800000000000000
+      internalID: 9043617793299874559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1023
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c122b6752855b90800000000000000
+      internalID: -7253748312839152571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_34
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1023
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397327a2f5eb505b0800000000000000
+      internalID: -5402702862017742957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_35
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1023
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cf0baa096943150800000000000000
+      internalID: 5851467363944299553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 961
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d115ada7fcb20b390800000000000000
+      internalID: -7804689984113716963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 961
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a942553dc9bb88f40800000000000000
+      internalID: 5731036808063820954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 961
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df0558d6b7a5a7f0800000000000000
+      internalID: -601890571428753448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 961
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e075a0063f6484e20800000000000000
+      internalID: 3334993535170139918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 961
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a819f362400088c0800000000000000
+      internalID: -3999196183959889759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 961
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1605813d2df034100800000000000000
+      internalID: 90933815636676705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 961
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9b493eba3ecd230800000000000000
+      internalID: 3665054524169828786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 961
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241e72012311e1720800000000000000
+      internalID: 2818709323497595202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 897
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6e07976bddb4c70800000000000000
+      internalID: 8956496059747591886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 898
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29bb4e4fe1c5c980800000000000000
+      internalID: -8519189886546495186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 898
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1023e691786a7f50800000000000000
+      internalID: 6879926217833914398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 898
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b952cb68e7f86a80800000000000000
+      internalID: -8473250121285215818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 898
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a970ed9f4d2a50e0800000000000000
+      internalID: -2280460441335334494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_49
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 898
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddb950b5dd0d29d0800000000000000
+      internalID: -2797564582089343523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 898
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faa7c5b533f629e0800000000000000
+      internalID: -1646361201748759815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 898
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16feb5ff3327559a0800000000000000
+      internalID: -6244959740626210975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 833
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdf7164a95b1ae80800000000000000
+      internalID: -8169048574867800641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 833
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e8a8b9af179fe10800000000000000
+      internalID: 2231940411504103060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 833
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfe6910d84422ce0800000000000000
+      internalID: -1431506359142649921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 833
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf98ecf9dea75f050800000000000000
+      internalID: 5833704053335296508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 833
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a7e7359912b76c0800000000000000
+      internalID: -4144682089649898852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 833
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a78c91dd3eef2a0800000000000000
+      internalID: -6701668656720872805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 833
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3f23caca9d75d90800000000000000
+      internalID: -7108974151134415894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 833
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8c5aebc2dbb5120800000000000000
+      internalID: 2403722826007038116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 770
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedb5d2b7312a9d70800000000000000
+      internalID: 9050582924261703147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 770
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaef70961cffb7b80800000000000000
+      internalID: -8395835874146255190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 769
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4611a2b82b345d2e0800000000000000
+      internalID: -2101699216980438684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 768
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df8b0cc70a7d38a0800000000000000
+      internalID: -6323764127851638828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 769
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2e73a2dfed82100800000000000000
+      internalID: 83561772022751976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 770
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c55d7ff931a4120800000000000000
+      internalID: 2398751329306893340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 769
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3da616497939bd0800000000000000
+      internalID: -2624587494281522204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_67
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 768
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121f7f0fb50c2cba0800000000000000
+      internalID: -6070077846624669407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 769
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7644685bee4284f30800000000000000
+      internalID: 4559935230378919015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_69
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 770
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd04744163959d340800000000000000
+      internalID: 4889036959290704095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_70
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 770
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f77756de9c82df0800000000000000
+      internalID: -204691761598595320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_71
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 705
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee84099c433dabd0800000000000000
+      internalID: -2617379404354646297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_72
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 705
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2c1d52ecfb253d0800000000000000
+      internalID: -3219299891497811283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_73
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 706
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2203acaa70838cc60800000000000000
+      internalID: 7838576757019652130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_74
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 706
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8229ab060261b50800000000000000
+      internalID: 6563469106758166757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_75
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 705
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a28df5a09afef180800000000000000
+      internalID: -9079544299565251932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_76
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 705
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4be5c2864e89b20800000000000000
+      internalID: 3141511876163056843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_77
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 705
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c3abc43ea2052e0800000000000000
+      internalID: -2139162667267769273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_78
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 705
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc60eed726eeaa60800000000000000
+      internalID: 7687334672885378231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_79
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 705
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07dd1cb5e19142c0800000000000000
+      internalID: -4449114540975728886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_80
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 705
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e9b676b7c602bc0800000000000000
+      internalID: -3809926007483556218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_81
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 705
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25c501b39f284810800000000000000
+      internalID: 1749700766610081066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 641
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b751d91df2f1d0dd0800000000000000
+      internalID: -2518322326389582469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 641
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af06a14b312116bf0800000000000000
+      internalID: -332965021613399814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_84
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 640
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e90aa6e5ed58f30800000000000000
+      internalID: 4577309093389180539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_85
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 640
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fc4d9421dae1590800000000000000
+      internalID: -7701528018697269482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_86
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 640
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4faabf4ce3e172c00800000000000000
+      internalID: 875701907488484084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_87
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 641
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90837b9018f987930800000000000000
+      internalID: 4141235233929771017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_88
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 640
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32af48cbab674e4b0800000000000000
+      internalID: -5412070307793667549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_89
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 640
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26421a72b786f1d70800000000000000
+      internalID: 9016039857174160482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_90
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 640
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cff012e8012c590800000000000000
+      internalID: -7655538213950325664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_91
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 641
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c0b1f0bc542e2e0800000000000000
+      internalID: -2098037737967121329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_92
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 641
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45e50d3259bd3990800000000000000
+      internalID: -7404558449464974004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_93
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 577
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4915e6202498ce10800000000000000
+      internalID: 2218185682292382031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_94
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 577
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee8a1343543acbc0800000000000000
+      internalID: -3762137006501884189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_95
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 578
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a056778bf232970800000000000000
+      internalID: 8728872972097751627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_96
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 578
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ca454aa096b7e20800000000000000
+      internalID: 3349386242307697819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_97
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 577
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f478fd2d0fa9f8870800000000000000
+      internalID: 8687332565341669199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_98
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 577
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528a7cb33c3c1a810800000000000000
+      internalID: 1774914971449665573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_99
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 577
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea72f1da7623ae00800000000000000
+      internalID: 1054729046685022946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_100
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 577
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcd70a8ee8c252f0800000000000000
+      internalID: -985504441597174599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_101
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 577
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5c20c0a630a1060800000000000000
+      internalID: 6924851131038483914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_102
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 577
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f13eac2e59b57120800000000000000
+      internalID: 2411036989654446582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_103
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 577
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9187924227b4c9a0800000000000000
+      internalID: -6213640228090445411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_104
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 514
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90181d5ba2e0c8860800000000000000
+      internalID: 7533411853285818633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_105
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 512
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c342e0255ae983e10800000000000000
+      internalID: 2177664852717085756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_106
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 512
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6966b5fc0954ce8d0800000000000000
+      internalID: -2815799178756921706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_107
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 512
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be2b3296f19e7100800000000000000
+      internalID: 107683929304805041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_108
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 512
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df6029b0c6728380800000000000000
+      internalID: -8970476937656897576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_109
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 512
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2b73f968a31b650800000000000000
+      internalID: 6246838508010844921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_110
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 514
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bc249a224973ef0800000000000000
+      internalID: -128471187767243918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_111
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 512
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c736a5448331850800000000000000
+      internalID: 6346478166120561784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_112
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 512
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315e5b0f44fc9c700800000000000000
+      internalID: 561207523587515667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_113
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 512
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05642239f9583da0800000000000000
+      internalID: -5964918779629247222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_114
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 512
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7539614794021b250800000000000000
+      internalID: 5958579281840214871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_115
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 512
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1426563a5a24eca50800000000000000
+      internalID: 6543240587794276929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_116
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 449
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ab555828d145ad0800000000000000
+      internalID: -2714512228977624566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_117
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 449
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fd9c8a67c380e90800000000000000
+      internalID: -7059325935567642812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_118
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 449
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8d38761ef965b20800000000000000
+      internalID: 3122859182081169618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_119
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 449
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d48968e19bead40800000000000000
+      internalID: 5597614927626390813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_120
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 449
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de293fa726390990800000000000000
+      internalID: -7419339367044796714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_121
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 449
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88d3cb4e900f0700800000000000000
+      internalID: 508625962792114318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_122
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 449
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f8f959298cd4dd0800000000000000
+      internalID: -2500121686219714753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_123
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 449
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790df6cee9490e750800000000000000
+      internalID: 6332224486375411863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_124
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 449
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7e7506ca13ba900800000000000000
+      internalID: 696705183779383223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_125
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 449
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1f68a5c82ae7fe0800000000000000
+      internalID: -1189334527881317911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_126
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 449
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44418dd239079bbf0800000000000000
+      internalID: -308091322066529212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_127
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 449
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f45552deba015660800000000000000
+      internalID: 7372685879671084279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_128
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 385
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a96e7b905b184a0800000000000000
+      internalID: -6592789326149019104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_129
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 385
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2089cd1f97debf00800000000000000
+      internalID: 1134581234543460398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_130
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 385
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544ee5bac777fc5f0800000000000000
+      internalID: -734236836903328699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_131
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 385
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006fbc04235cba0a0800000000000000
+      internalID: -6869179986997414400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_132
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 385
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241b486659ef8adf0800000000000000
+      internalID: -168605068402839230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_133
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 385
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3849bb1ebe98bff00800000000000000
+      internalID: 1151665775920780419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_134
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 385
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f6a808aec837060800000000000000
+      internalID: 6950053588769599333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_135
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 385
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d8acb3f51356dc0800000000000000
+      internalID: -3646454038191764130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_136
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 385
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044818935c6e12a90800000000000000
+      internalID: -7340332182889462720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_137
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 385
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129fefa5cdfb5dd70800000000000000
+      internalID: 9067364377920731425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_138
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 385
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74439b5de9bcb22a0800000000000000
+      internalID: -6761086532515711929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_139
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 385
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30149cf95dfe5760800000000000000
+      internalID: 7448669396648857659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_140
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 321
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322311c5346a329a0800000000000000
+      internalID: -6258976248877207005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_141
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 321
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e5a6b374633f450800000000000000
+      internalID: 6121295998094040640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_142
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 321
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d66b0f0d4c9b410800000000000000
+      internalID: 1493441153120759156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_143
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 321
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06eee46a3f2c37780800000000000000
+      internalID: -8686384904544522656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_144
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 321
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134e97fdf541b90b0800000000000000
+      internalID: -5720956499640327119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_145
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 321
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863bd39d6898e8960800000000000000
+      internalID: 7606168032938668904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_146
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 321
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b40ace5b50d01770800000000000000
+      internalID: 8579586380991694002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_147
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 321
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3449477afc80b8760800000000000000
+      internalID: 7461066895630046275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_148
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 321
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbd28d5a564d6d60800000000000000
+      internalID: 7885035876525464534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_149
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 321
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e53dc7987339f70800000000000000
+      internalID: 9192752328037588530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_150
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 321
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db1528b30719ec50800000000000000
+      internalID: 6694907625804733397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_151
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 321
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ef4a58c1a6139f0800000000000000
+      internalID: -490494213672862088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_152
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 258
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4dc8f66d9850b20800000000000000
+      internalID: 3100035472601961695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_153
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 255
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ae7c353ca0380a0800000000000000
+      internalID: -6880643971651474822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_154
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 255
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e816815cdc6dd70800000000000000
+      internalID: 9067661146158370372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_155
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 255
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5afb0e8b3a528c0800000000000000
+      internalID: -4024630677545703980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_156
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 255
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93267338f2cdb16e0800000000000000
+      internalID: -1865655523991920071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_157
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 255
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0ce89231df43d40800000000000000
+      internalID: 5563349698452832426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_158
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 255
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c84b412cd029690800000000000000
+      internalID: -7596994494198412201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_159
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 255
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef46e7969cfa1940800000000000000
+      internalID: 5267800437886963684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_160
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 255
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0f2beba3415fdf0800000000000000
+      internalID: -147189170279616278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_161
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 255
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468bb5ad7e9221600800000000000000
+      internalID: 437458189585987684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_162
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 255
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d57d0c7d050fc20800000000000000
+      internalID: 3238177019662916958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_163
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 255
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbf8b37f1c7f8370800000000000000
+      internalID: 8327010710558669766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_164
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 255
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35376bdb4245da090800000000000000
+      internalID: -8021662844498578605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_165
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 193
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8deb3b8dfff71a0800000000000000
+      internalID: -6809442805367252822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_166
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 193
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6328bd144ac79a5c0800000000000000
+      internalID: -4203691732252261834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_167
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 193
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0905b08514cf9b0800000000000000
+      internalID: -5045085636159041346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_168
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 193
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63074559bcaac8580800000000000000
+      internalID: -8823489778565222346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_169
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 193
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77c4cf39c0059cb0800000000000000
+      internalID: -4857975758690924676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_170
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 193
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6799e06322ad380800000000000000
+      internalID: -8945800094249552155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_171
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 193
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6134638c045b2c390800000000000000
+      internalID: -7799472314810744042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_172
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 193
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d709c2ecf6fe1770800000000000000
+      internalID: 8583569505811761113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_173
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 193
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45087f087c589bb40800000000000000
+      internalID: 5456539515444756564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_174
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 193
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8899eadf19592bca0800000000000000
+      internalID: -6002570899072575096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_175
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 193
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9085ebfea5f99bbd0800000000000000
+      internalID: -2613882895793760247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_176
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 193
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035b03cf2685ac040800000000000000
+      internalID: 4668641145884030256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_177
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 193
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc75207f28e8ca70800000000000000
+      internalID: 8847576758411951320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_178
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 129
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f309a84e957c49990800000000000000
+      internalID: -7380054700453097409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_179
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 130
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa20180b11df0480800000000000000
+      internalID: -8930689622022804827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_180
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 130
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bc5eee0fb6ede20800000000000000
+      internalID: 3377255453118810969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_181
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 129
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b9ebc9e441bde50800000000000000
+      internalID: 6835079187334601579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_182
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 129
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b953cc229e129b3f0800000000000000
+      internalID: -884638566606686821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_183
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 129
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0590f1bc3719c10c0800000000000000
+      internalID: -4603644792564414128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_184
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 129
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0b99a7817196710800000000000000
+      internalID: 1686904929330507980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_185
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 129
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8dd323b7d9cad10800000000000000
+      internalID: 2138257075543595184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_186
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 129
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c51ea5357c67520800000000000000
+      internalID: 2699564187476122677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_187
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 129
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9159a2b620797060800000000000000
+      internalID: 6951710811331580318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_188
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 129
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cb941ce8b88d680800000000000000
+      internalID: -8730074432413254655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_189
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 129
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b73d002253ab580800000000000000
+      internalID: -8810671300837934302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_190
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 129
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b408945344edee0800000000000000
+      internalID: -1234474252195837138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_191
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 65
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe89ad1ebc5ab8b0800000000000000
+      internalID: -5135690453451436357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_192
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 65
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302c9295e107eceb0800000000000000
+      internalID: -4697694085653609981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_193
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 65
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85797a30f559b8180800000000000000
+      internalID: -9112025185738320040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_194
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 65
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c763731a46d412a0800000000000000
+      internalID: -6767548726388758587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_195
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 65
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea5b714c82748b70800000000000000
+      internalID: 8900364710310533859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_196
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 65
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd59a73df4f32fe10800000000000000
+      internalID: 2229914377584809437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_197
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8dedf2972c1d090800000000000000
+      internalID: -8011408436365436755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_198
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 65
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5c48265ccbbbf90800000000000000
+      internalID: -6936743245086669338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_199
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 65
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c7a62a041f8dab0800000000000000
+      internalID: -4982967727780365177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_200
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 65
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbc9e4b1f88bd170800000000000000
+      internalID: 8204301717889207227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_201
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 65
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b95bbba68b046af0800000000000000
+      internalID: -404185393521796686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_202
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 65
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dbe684295e80c50800000000000000
+      internalID: 6631802867746258276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_203
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 65
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880a7b5a88222aaf0800000000000000
+      internalID: -386708647709269880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_204
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fffd32a31d21e80800000000000000
+      internalID: -8209269123102802163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_205
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e392f205353d6e0800000000000000
+      internalID: -1814014621046456825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_206
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddec3a35b5d53050800000000000000
+      internalID: 5779760671142768091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_207
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ca89da022b48f50800000000000000
+      internalID: 6882821983950122119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_208
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37afd3a5ae0317c00800000000000000
+      internalID: 896551583917931123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins_universal_209
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e262af57410996d90800000000000000
+      internalID: -7103988519647173074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Guests Gartins_universal_0: 1192814840555013688
+      Guests Gartins_universal_1: 8615722687112776172
+      Guests Gartins_universal_10: 2570464417577963786
+      Guests Gartins_universal_100: -985504441597174599
+      Guests Gartins_universal_101: 6924851131038483914
+      Guests Gartins_universal_102: 2411036989654446582
+      Guests Gartins_universal_103: -6213640228090445411
+      Guests Gartins_universal_104: 7533411853285818633
+      Guests Gartins_universal_105: 2177664852717085756
+      Guests Gartins_universal_106: -2815799178756921706
+      Guests Gartins_universal_107: 107683929304805041
+      Guests Gartins_universal_108: -8970476937656897576
+      Guests Gartins_universal_109: 6246838508010844921
+      Guests Gartins_universal_11: 35829338683557047
+      Guests Gartins_universal_110: -128471187767243918
+      Guests Gartins_universal_111: 6346478166120561784
+      Guests Gartins_universal_112: 561207523587515667
+      Guests Gartins_universal_113: -5964918779629247222
+      Guests Gartins_universal_114: 5958579281840214871
+      Guests Gartins_universal_115: 6543240587794276929
+      Guests Gartins_universal_116: -2714512228977624566
+      Guests Gartins_universal_117: -7059325935567642812
+      Guests Gartins_universal_118: 3122859182081169618
+      Guests Gartins_universal_119: 5597614927626390813
+      Guests Gartins_universal_12: 4623043092593819616
+      Guests Gartins_universal_120: -7419339367044796714
+      Guests Gartins_universal_121: 508625962792114318
+      Guests Gartins_universal_122: -2500121686219714753
+      Guests Gartins_universal_123: 6332224486375411863
+      Guests Gartins_universal_124: 696705183779383223
+      Guests Gartins_universal_125: -1189334527881317911
+      Guests Gartins_universal_126: -308091322066529212
+      Guests Gartins_universal_127: 7372685879671084279
+      Guests Gartins_universal_128: -6592789326149019104
+      Guests Gartins_universal_129: 1134581234543460398
+      Guests Gartins_universal_13: 2262511170806319359
+      Guests Gartins_universal_130: -734236836903328699
+      Guests Gartins_universal_131: -6869179986997414400
+      Guests Gartins_universal_132: -168605068402839230
+      Guests Gartins_universal_133: 1151665775920780419
+      Guests Gartins_universal_134: 6950053588769599333
+      Guests Gartins_universal_135: -3646454038191764130
+      Guests Gartins_universal_136: -7340332182889462720
+      Guests Gartins_universal_137: 9067364377920731425
+      Guests Gartins_universal_138: -6761086532515711929
+      Guests Gartins_universal_139: 7448669396648857659
+      Guests Gartins_universal_14: -7886805277319363947
+      Guests Gartins_universal_140: -6258976248877207005
+      Guests Gartins_universal_141: 6121295998094040640
+      Guests Gartins_universal_142: 1493441153120759156
+      Guests Gartins_universal_143: -8686384904544522656
+      Guests Gartins_universal_144: -5720956499640327119
+      Guests Gartins_universal_145: 7606168032938668904
+      Guests Gartins_universal_146: 8579586380991694002
+      Guests Gartins_universal_147: 7461066895630046275
+      Guests Gartins_universal_148: 7885035876525464534
+      Guests Gartins_universal_149: 9192752328037588530
+      Guests Gartins_universal_15: 7666353602187899097
+      Guests Gartins_universal_150: 6694907625804733397
+      Guests Gartins_universal_151: -490494213672862088
+      Guests Gartins_universal_152: 3100035472601961695
+      Guests Gartins_universal_153: -6880643971651474822
+      Guests Gartins_universal_154: 9067661146158370372
+      Guests Gartins_universal_155: -4024630677545703980
+      Guests Gartins_universal_156: -1865655523991920071
+      Guests Gartins_universal_157: 5563349698452832426
+      Guests Gartins_universal_158: -7596994494198412201
+      Guests Gartins_universal_159: 5267800437886963684
+      Guests Gartins_universal_16: 2259222497891282200
+      Guests Gartins_universal_160: -147189170279616278
+      Guests Gartins_universal_161: 437458189585987684
+      Guests Gartins_universal_162: 3238177019662916958
+      Guests Gartins_universal_163: 8327010710558669766
+      Guests Gartins_universal_164: -8021662844498578605
+      Guests Gartins_universal_165: -6809442805367252822
+      Guests Gartins_universal_166: -4203691732252261834
+      Guests Gartins_universal_167: -5045085636159041346
+      Guests Gartins_universal_168: -8823489778565222346
+      Guests Gartins_universal_169: -4857975758690924676
+      Guests Gartins_universal_17: 306679212783207478
+      Guests Gartins_universal_170: -8945800094249552155
+      Guests Gartins_universal_171: -7799472314810744042
+      Guests Gartins_universal_172: 8583569505811761113
+      Guests Gartins_universal_173: 5456539515444756564
+      Guests Gartins_universal_174: -6002570899072575096
+      Guests Gartins_universal_175: -2613882895793760247
+      Guests Gartins_universal_176: 4668641145884030256
+      Guests Gartins_universal_177: 8847576758411951320
+      Guests Gartins_universal_178: -7380054700453097409
+      Guests Gartins_universal_179: -8930689622022804827
+      Guests Gartins_universal_18: -4871044429174687101
+      Guests Gartins_universal_180: 3377255453118810969
+      Guests Gartins_universal_181: 6835079187334601579
+      Guests Gartins_universal_182: -884638566606686821
+      Guests Gartins_universal_183: -4603644792564414128
+      Guests Gartins_universal_184: 1686904929330507980
+      Guests Gartins_universal_185: 2138257075543595184
+      Guests Gartins_universal_186: 2699564187476122677
+      Guests Gartins_universal_187: 6951710811331580318
+      Guests Gartins_universal_188: -8730074432413254655
+      Guests Gartins_universal_189: -8810671300837934302
+      Guests Gartins_universal_19: -1791497608207643976
+      Guests Gartins_universal_190: -1234474252195837138
+      Guests Gartins_universal_191: -5135690453451436357
+      Guests Gartins_universal_192: -4697694085653609981
+      Guests Gartins_universal_193: -9112025185738320040
+      Guests Gartins_universal_194: -6767548726388758587
+      Guests Gartins_universal_195: 8900364710310533859
+      Guests Gartins_universal_196: 2229914377584809437
+      Guests Gartins_universal_197: -8011408436365436755
+      Guests Gartins_universal_198: -6936743245086669338
+      Guests Gartins_universal_199: -4982967727780365177
+      Guests Gartins_universal_2: -2008930873822295578
+      Guests Gartins_universal_20: -5449450592260481713
+      Guests Gartins_universal_200: 8204301717889207227
+      Guests Gartins_universal_201: -404185393521796686
+      Guests Gartins_universal_202: 6631802867746258276
+      Guests Gartins_universal_203: -386708647709269880
+      Guests Gartins_universal_204: -8209269123102802163
+      Guests Gartins_universal_205: -1814014621046456825
+      Guests Gartins_universal_206: 5779760671142768091
+      Guests Gartins_universal_207: 6882821983950122119
+      Guests Gartins_universal_208: 896551583917931123
+      Guests Gartins_universal_209: -7103988519647173074
+      Guests Gartins_universal_21: -7540587522580228771
+      Guests Gartins_universal_22: -8155072411279723795
+      Guests Gartins_universal_23: -5204791878813575121
+      Guests Gartins_universal_24: 6347445897283813471
+      Guests Gartins_universal_25: 7512287642660653493
+      Guests Gartins_universal_26: 9137329182398265987
+      Guests Gartins_universal_27: -1536283901716576734
+      Guests Gartins_universal_28: 7099647863241837649
+      Guests Gartins_universal_29: 1250716388112177544
+      Guests Gartins_universal_3: 2908610430771309581
+      Guests Gartins_universal_30: 1428551598667644242
+      Guests Gartins_universal_31: 3366781110196914996
+      Guests Gartins_universal_32: 9043617793299874559
+      Guests Gartins_universal_33: -7253748312839152571
+      Guests Gartins_universal_34: -5402702862017742957
+      Guests Gartins_universal_35: 5851467363944299553
+      Guests Gartins_universal_36: -7804689984113716963
+      Guests Gartins_universal_37: 5731036808063820954
+      Guests Gartins_universal_38: -601890571428753448
+      Guests Gartins_universal_39: 3334993535170139918
+      Guests Gartins_universal_4: 5497138576596549928
+      Guests Gartins_universal_40: -3999196183959889759
+      Guests Gartins_universal_41: 90933815636676705
+      Guests Gartins_universal_42: 3665054524169828786
+      Guests Gartins_universal_43: 2818709323497595202
+      Guests Gartins_universal_44: 8956496059747591886
+      Guests Gartins_universal_45: -8519189886546495186
+      Guests Gartins_universal_46: 6879926217833914398
+      Guests Gartins_universal_47: -8473250121285215818
+      Guests Gartins_universal_48: -2280460441335334494
+      Guests Gartins_universal_49: -2797564582089343523
+      Guests Gartins_universal_5: 3789197653443328813
+      Guests Gartins_universal_50: -1646361201748759815
+      Guests Gartins_universal_51: -6244959740626210975
+      Guests Gartins_universal_52: -8169048574867800641
+      Guests Gartins_universal_53: 2231940411504103060
+      Guests Gartins_universal_54: -1431506359142649921
+      Guests Gartins_universal_55: 5833704053335296508
+      Guests Gartins_universal_56: -4144682089649898852
+      Guests Gartins_universal_57: -6701668656720872805
+      Guests Gartins_universal_58: -7108974151134415894
+      Guests Gartins_universal_59: 2403722826007038116
+      Guests Gartins_universal_6: 8290332819334596169
+      Guests Gartins_universal_60: 9050582924261703147
+      Guests Gartins_universal_61: -8395835874146255190
+      Guests Gartins_universal_62: -2101699216980438684
+      Guests Gartins_universal_63: -6323764127851638828
+      Guests Gartins_universal_64: 83561772022751976
+      Guests Gartins_universal_65: 2398751329306893340
+      Guests Gartins_universal_66: -2624587494281522204
+      Guests Gartins_universal_67: -6070077846624669407
+      Guests Gartins_universal_68: 4559935230378919015
+      Guests Gartins_universal_69: 4889036959290704095
+      Guests Gartins_universal_7: 3976534047095462033
+      Guests Gartins_universal_70: -204691761598595320
+      Guests Gartins_universal_71: -2617379404354646297
+      Guests Gartins_universal_72: -3219299891497811283
+      Guests Gartins_universal_73: 7838576757019652130
+      Guests Gartins_universal_74: 6563469106758166757
+      Guests Gartins_universal_75: -9079544299565251932
+      Guests Gartins_universal_76: 3141511876163056843
+      Guests Gartins_universal_77: -2139162667267769273
+      Guests Gartins_universal_78: 7687334672885378231
+      Guests Gartins_universal_79: -4449114540975728886
+      Guests Gartins_universal_8: 3804070737376650085
+      Guests Gartins_universal_80: -3809926007483556218
+      Guests Gartins_universal_81: 1749700766610081066
+      Guests Gartins_universal_82: -2518322326389582469
+      Guests Gartins_universal_83: -332965021613399814
+      Guests Gartins_universal_84: 4577309093389180539
+      Guests Gartins_universal_85: -7701528018697269482
+      Guests Gartins_universal_86: 875701907488484084
+      Guests Gartins_universal_87: 4141235233929771017
+      Guests Gartins_universal_88: -5412070307793667549
+      Guests Gartins_universal_89: 9016039857174160482
+      Guests Gartins_universal_9: -5434496696733877427
+      Guests Gartins_universal_90: -7655538213950325664
+      Guests Gartins_universal_91: -2098037737967121329
+      Guests Gartins_universal_92: -7404558449464974004
+      Guests Gartins_universal_93: 2218185682292382031
+      Guests Gartins_universal_94: -3762137006501884189
+      Guests Gartins_universal_95: 8728872972097751627
+      Guests Gartins_universal_96: 3349386242307697819
+      Guests Gartins_universal_97: 8687332565341669199
+      Guests Gartins_universal_98: 1774914971449665573
+      Guests Gartins_universal_99: 1054729046685022946
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

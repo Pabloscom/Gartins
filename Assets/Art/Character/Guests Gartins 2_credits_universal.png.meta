@@ -1,0 +1,2378 @@
+fileFormatVersion: 2
+guid: da09b299c846e1d429f6c173c598610c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1552827281258300237
+    second: Guests Gartins 2_credits_universal_0
+  - first:
+      213: -7429261188802469449
+    second: Guests Gartins 2_credits_universal_1
+  - first:
+      213: 2853726002788243475
+    second: Guests Gartins 2_credits_universal_2
+  - first:
+      213: -4006071375656448603
+    second: Guests Gartins 2_credits_universal_3
+  - first:
+      213: -2226755235287149144
+    second: Guests Gartins 2_credits_universal_4
+  - first:
+      213: 68824720089698903
+    second: Guests Gartins 2_credits_universal_5
+  - first:
+      213: 2711013020018831355
+    second: Guests Gartins 2_credits_universal_6
+  - first:
+      213: 7786588130535162955
+    second: Guests Gartins 2_credits_universal_7
+  - first:
+      213: 8970019832319669073
+    second: Guests Gartins 2_credits_universal_8
+  - first:
+      213: -6298139087524644828
+    second: Guests Gartins 2_credits_universal_9
+  - first:
+      213: -274990672677918588
+    second: Guests Gartins 2_credits_universal_10
+  - first:
+      213: -8385217915517253020
+    second: Guests Gartins 2_credits_universal_11
+  - first:
+      213: 455460842841324353
+    second: Guests Gartins 2_credits_universal_12
+  - first:
+      213: 1923149753395312884
+    second: Guests Gartins 2_credits_universal_13
+  - first:
+      213: 6305039160576724044
+    second: Guests Gartins 2_credits_universal_14
+  - first:
+      213: -1259132721090988200
+    second: Guests Gartins 2_credits_universal_15
+  - first:
+      213: -385168058979562078
+    second: Guests Gartins 2_credits_universal_16
+  - first:
+      213: -8757423278920009894
+    second: Guests Gartins 2_credits_universal_17
+  - first:
+      213: -5965780748873754247
+    second: Guests Gartins 2_credits_universal_18
+  - first:
+      213: -1642409642522022697
+    second: Guests Gartins 2_credits_universal_19
+  - first:
+      213: 8786540590113202292
+    second: Guests Gartins 2_credits_universal_20
+  - first:
+      213: 7243138243442852788
+    second: Guests Gartins 2_credits_universal_21
+  - first:
+      213: 372796084361687305
+    second: Guests Gartins 2_credits_universal_22
+  - first:
+      213: 1468748593779938116
+    second: Guests Gartins 2_credits_universal_23
+  - first:
+      213: -7592590411380439704
+    second: Guests Gartins 2_credits_universal_24
+  - first:
+      213: 6018168933952416356
+    second: Guests Gartins 2_credits_universal_25
+  - first:
+      213: -7478083992557792478
+    second: Guests Gartins 2_credits_universal_26
+  - first:
+      213: -5385798364406320281
+    second: Guests Gartins 2_credits_universal_27
+  - first:
+      213: -8532454830372386158
+    second: Guests Gartins 2_credits_universal_28
+  - first:
+      213: -7451556200723025056
+    second: Guests Gartins 2_credits_universal_29
+  - first:
+      213: 9137203650044616984
+    second: Guests Gartins 2_credits_universal_30
+  - first:
+      213: 2404344354309841923
+    second: Guests Gartins 2_credits_universal_31
+  - first:
+      213: -8401458583490461210
+    second: Guests Gartins 2_credits_universal_32
+  - first:
+      213: 777967415480798902
+    second: Guests Gartins 2_credits_universal_33
+  - first:
+      213: 4425082419391179805
+    second: Guests Gartins 2_credits_universal_34
+  - first:
+      213: 6477313820262626561
+    second: Guests Gartins 2_credits_universal_35
+  - first:
+      213: 1464904563599934776
+    second: Guests Gartins 2_credits_universal_36
+  - first:
+      213: -6953047351704590075
+    second: Guests Gartins 2_credits_universal_37
+  - first:
+      213: 7608769985837682761
+    second: Guests Gartins 2_credits_universal_38
+  - first:
+      213: 1185909613274705524
+    second: Guests Gartins 2_credits_universal_39
+  - first:
+      213: 519502122316709720
+    second: Guests Gartins 2_credits_universal_40
+  - first:
+      213: -7542387548103366800
+    second: Guests Gartins 2_credits_universal_41
+  - first:
+      213: 3667208919432546962
+    second: Guests Gartins 2_credits_universal_42
+  - first:
+      213: 1718068002795002469
+    second: Guests Gartins 2_credits_universal_43
+  - first:
+      213: -9212290419991030847
+    second: Guests Gartins 2_credits_universal_44
+  - first:
+      213: -6141693930933944004
+    second: Guests Gartins 2_credits_universal_45
+  - first:
+      213: -4780651397218639893
+    second: Guests Gartins 2_credits_universal_46
+  - first:
+      213: 1399927968414625084
+    second: Guests Gartins 2_credits_universal_47
+  - first:
+      213: -4466352838938605745
+    second: Guests Gartins 2_credits_universal_48
+  - first:
+      213: 4363863327447765858
+    second: Guests Gartins 2_credits_universal_49
+  - first:
+      213: 7910293729842112523
+    second: Guests Gartins 2_credits_universal_50
+  - first:
+      213: -7196777174047957313
+    second: Guests Gartins 2_credits_universal_51
+  - first:
+      213: -2067701901485642336
+    second: Guests Gartins 2_credits_universal_52
+  - first:
+      213: 2576104300184033027
+    second: Guests Gartins 2_credits_universal_53
+  - first:
+      213: -3830750311554219264
+    second: Guests Gartins 2_credits_universal_54
+  - first:
+      213: 3793984477170129056
+    second: Guests Gartins 2_credits_universal_55
+  - first:
+      213: -892109100835885686
+    second: Guests Gartins 2_credits_universal_56
+  - first:
+      213: 4412097197015531212
+    second: Guests Gartins 2_credits_universal_57
+  - first:
+      213: 947763478204564401
+    second: Guests Gartins 2_credits_universal_58
+  - first:
+      213: -4400153706379698099
+    second: Guests Gartins 2_credits_universal_59
+  - first:
+      213: -6017478427418640281
+    second: Guests Gartins 2_credits_universal_60
+  - first:
+      213: -3902940605879452596
+    second: Guests Gartins 2_credits_universal_61
+  - first:
+      213: 5153094426492049366
+    second: Guests Gartins 2_credits_universal_62
+  - first:
+      213: -1174353898680957707
+    second: Guests Gartins 2_credits_universal_63
+  - first:
+      213: 1188878962898674831
+    second: Guests Gartins 2_credits_universal_64
+  - first:
+      213: 4705877923812492580
+    second: Guests Gartins 2_credits_universal_65
+  - first:
+      213: 6116021478746260384
+    second: Guests Gartins 2_credits_universal_66
+  - first:
+      213: 4531753408708546
+    second: Guests Gartins 2_credits_universal_67
+  - first:
+      213: -2546680420484461007
+    second: Guests Gartins 2_credits_universal_68
+  - first:
+      213: -1185254149263166022
+    second: Guests Gartins 2_credits_universal_69
+  - first:
+      213: -1736235557454278740
+    second: Guests Gartins 2_credits_universal_70
+  - first:
+      213: 2333019170157547671
+    second: Guests Gartins 2_credits_universal_71
+  - first:
+      213: -6252163341381016347
+    second: Guests Gartins 2_credits_universal_72
+  - first:
+      213: 7229133562074197696
+    second: Guests Gartins 2_credits_universal_73
+  - first:
+      213: -4871432439032685151
+    second: Guests Gartins 2_credits_universal_74
+  - first:
+      213: -1158223001290975740
+    second: Guests Gartins 2_credits_universal_75
+  - first:
+      213: 6152327532603686372
+    second: Guests Gartins 2_credits_universal_76
+  - first:
+      213: -4773034882001009940
+    second: Guests Gartins 2_credits_universal_77
+  - first:
+      213: 128886718692316490
+    second: Guests Gartins 2_credits_universal_78
+  - first:
+      213: 203103789136508184
+    second: Guests Gartins 2_credits_universal_79
+  - first:
+      213: -4667702164964505836
+    second: Guests Gartins 2_credits_universal_80
+  - first:
+      213: 3720225918180219189
+    second: Guests Gartins 2_credits_universal_81
+  - first:
+      213: -1983332590965918309
+    second: Guests Gartins 2_credits_universal_82
+  - first:
+      213: 1461142585983340882
+    second: Guests Gartins 2_credits_universal_83
+  - first:
+      213: 3290000672086157980
+    second: Guests Gartins 2_credits_universal_84
+  - first:
+      213: 7913537566919447890
+    second: Guests Gartins 2_credits_universal_85
+  - first:
+      213: -4535679187502095460
+    second: Guests Gartins 2_credits_universal_86
+  - first:
+      213: 5401578967405604266
+    second: Guests Gartins 2_credits_universal_87
+  - first:
+      213: -8361865147470970886
+    second: Guests Gartins 2_credits_universal_88
+  - first:
+      213: 7191806178466578452
+    second: Guests Gartins 2_credits_universal_89
+  - first:
+      213: -588366012938942734
+    second: Guests Gartins 2_credits_universal_90
+  - first:
+      213: -593013828074798306
+    second: Guests Gartins 2_credits_universal_91
+  - first:
+      213: -7518582572925290637
+    second: Guests Gartins 2_credits_universal_92
+  - first:
+      213: 117261348911260111
+    second: Guests Gartins 2_credits_universal_93
+  - first:
+      213: 2959368618397504038
+    second: Guests Gartins 2_credits_universal_94
+  - first:
+      213: 8524379393887372984
+    second: Guests Gartins 2_credits_universal_95
+  - first:
+      213: -6004548206655414127
+    second: Guests Gartins 2_credits_universal_96
+  - first:
+      213: -7645851747196280411
+    second: Guests Gartins 2_credits_universal_97
+  - first:
+      213: 1822665854077595172
+    second: Guests Gartins 2_credits_universal_98
+  - first:
+      213: -8289903288299216881
+    second: Guests Gartins 2_credits_universal_99
+  - first:
+      213: 5003661373496983408
+    second: Guests Gartins 2_credits_universal_100
+  - first:
+      213: -7205449074945538215
+    second: Guests Gartins 2_credits_universal_101
+  - first:
+      213: 8375973121836151315
+    second: Guests Gartins 2_credits_universal_102
+  - first:
+      213: -6587016936492651213
+    second: Guests Gartins 2_credits_universal_103
+  - first:
+      213: 1082591514992152960
+    second: Guests Gartins 2_credits_universal_104
+  - first:
+      213: -4647231766146997698
+    second: Guests Gartins 2_credits_universal_105
+  - first:
+      213: -8438563199654810484
+    second: Guests Gartins 2_credits_universal_106
+  - first:
+      213: 6819095608378176708
+    second: Guests Gartins 2_credits_universal_107
+  - first:
+      213: 3212883833173946917
+    second: Guests Gartins 2_credits_universal_108
+  - first:
+      213: -1279354129225155184
+    second: Guests Gartins 2_credits_universal_109
+  - first:
+      213: 5478360617347618970
+    second: Guests Gartins 2_credits_universal_110
+  - first:
+      213: -5293314160459624290
+    second: Guests Gartins 2_credits_universal_111
+  - first:
+      213: -5627031816675890696
+    second: Guests Gartins 2_credits_universal_112
+  - first:
+      213: 1538033697464433665
+    second: Guests Gartins 2_credits_universal_113
+  - first:
+      213: -990487130623809393
+    second: Guests Gartins 2_credits_universal_114
+  - first:
+      213: 8287500221931279254
+    second: Guests Gartins 2_credits_universal_115
+  - first:
+      213: 6282041336026885645
+    second: Guests Gartins 2_credits_universal_116
+  - first:
+      213: -3216463113288224838
+    second: Guests Gartins 2_credits_universal_117
+  - first:
+      213: -5743206588849341008
+    second: Guests Gartins 2_credits_universal_118
+  - first:
+      213: -399130774729486256
+    second: Guests Gartins 2_credits_universal_119
+  - first:
+      213: -5188738797835324090
+    second: Guests Gartins 2_credits_universal_120
+  - first:
+      213: -2535105824895249407
+    second: Guests Gartins 2_credits_universal_121
+  - first:
+      213: 3261999843468940550
+    second: Guests Gartins 2_credits_universal_122
+  - first:
+      213: 4700053559406974952
+    second: Guests Gartins 2_credits_universal_123
+  - first:
+      213: -268609938870158979
+    second: Guests Gartins 2_credits_universal_124
+  - first:
+      213: -2621806010623774098
+    second: Guests Gartins 2_credits_universal_125
+  - first:
+      213: 3335030038060144591
+    second: Guests Gartins 2_credits_universal_126
+  - first:
+      213: -1109925248617834401
+    second: Guests Gartins 2_credits_universal_127
+  - first:
+      213: 5630911475724309325
+    second: Guests Gartins 2_credits_universal_128
+  - first:
+      213: 482931487367042003
+    second: Guests Gartins 2_credits_universal_129
+  - first:
+      213: 1315905644029855389
+    second: Guests Gartins 2_credits_universal_130
+  - first:
+      213: -8945504275989148905
+    second: Guests Gartins 2_credits_universal_131
+  - first:
+      213: 7427870008854437454
+    second: Guests Gartins 2_credits_universal_132
+  - first:
+      213: -4454136700668422305
+    second: Guests Gartins 2_credits_universal_133
+  - first:
+      213: -6404436957697224465
+    second: Guests Gartins 2_credits_universal_134
+  - first:
+      213: -8617216071206507948
+    second: Guests Gartins 2_credits_universal_135
+  - first:
+      213: 6662669696790988321
+    second: Guests Gartins 2_credits_universal_136
+  - first:
+      213: 753176381769228641
+    second: Guests Gartins 2_credits_universal_137
+  - first:
+      213: 5846220227794689370
+    second: Guests Gartins 2_credits_universal_138
+  - first:
+      213: 7794846780254986272
+    second: Guests Gartins 2_credits_universal_139
+  - first:
+      213: 3735529155122789310
+    second: Guests Gartins 2_credits_universal_140
+  - first:
+      213: 7828550589294368022
+    second: Guests Gartins 2_credits_universal_141
+  - first:
+      213: -1481013097101272920
+    second: Guests Gartins 2_credits_universal_142
+  - first:
+      213: -7433840446954994318
+    second: Guests Gartins 2_credits_universal_143
+  - first:
+      213: 4627460519376783510
+    second: Guests Gartins 2_credits_universal_144
+  - first:
+      213: -3489406205308986113
+    second: Guests Gartins 2_credits_universal_145
+  - first:
+      213: -5945066065262619650
+    second: Guests Gartins 2_credits_universal_146
+  - first:
+      213: 3366114171163005527
+    second: Guests Gartins 2_credits_universal_147
+  - first:
+      213: -7587824606831550009
+    second: Guests Gartins 2_credits_universal_148
+  - first:
+      213: -1115987869312676739
+    second: Guests Gartins 2_credits_universal_149
+  - first:
+      213: -8046345660378417406
+    second: Guests Gartins 2_credits_universal_150
+  - first:
+      213: -7304807815619456778
+    second: Guests Gartins 2_credits_universal_151
+  - first:
+      213: 6041676753613103958
+    second: Guests Gartins 2_credits_universal_152
+  - first:
+      213: 5582971897263886978
+    second: Guests Gartins 2_credits_universal_153
+  - first:
+      213: 8588400318370017966
+    second: Guests Gartins 2_credits_universal_154
+  - first:
+      213: 6211064665468326650
+    second: Guests Gartins 2_credits_universal_155
+  - first:
+      213: 349442297024222951
+    second: Guests Gartins 2_credits_universal_156
+  - first:
+      213: 2859081245504896957
+    second: Guests Gartins 2_credits_universal_157
+  - first:
+      213: 184755457192823955
+    second: Guests Gartins 2_credits_universal_158
+  - first:
+      213: -79312158231779701
+    second: Guests Gartins 2_credits_universal_159
+  - first:
+      213: 3267776902450088451
+    second: Guests Gartins 2_credits_universal_160
+  - first:
+      213: -3623175298168045315
+    second: Guests Gartins 2_credits_universal_161
+  - first:
+      213: -3996668524805528351
+    second: Guests Gartins 2_credits_universal_162
+  - first:
+      213: -7603694845061618813
+    second: Guests Gartins 2_credits_universal_163
+  - first:
+      213: -7659214017063655784
+    second: Guests Gartins 2_credits_universal_164
+  - first:
+      213: 7891714360961874271
+    second: Guests Gartins 2_credits_universal_165
+  - first:
+      213: 1409140431553678438
+    second: Guests Gartins 2_credits_universal_166
+  - first:
+      213: -7896157779266478415
+    second: Guests Gartins 2_credits_universal_167
+  - first:
+      213: -7638354133389897677
+    second: Guests Gartins 2_credits_universal_168
+  - first:
+      213: -4764328750726231506
+    second: Guests Gartins 2_credits_universal_169
+  - first:
+      213: -6994269933343196977
+    second: Guests Gartins 2_credits_universal_170
+  - first:
+      213: 4840874737251206723
+    second: Guests Gartins 2_credits_universal_171
+  - first:
+      213: 8380509020072044981
+    second: Guests Gartins 2_credits_universal_172
+  - first:
+      213: -1892273169614127521
+    second: Guests Gartins 2_credits_universal_173
+  - first:
+      213: -2143620510802009342
+    second: Guests Gartins 2_credits_universal_174
+  - first:
+      213: 2401288818582685091
+    second: Guests Gartins 2_credits_universal_175
+  - first:
+      213: -4638277909481871767
+    second: Guests Gartins 2_credits_universal_176
+  - first:
+      213: 2831301048773356275
+    second: Guests Gartins 2_credits_universal_177
+  - first:
+      213: -1914327419788841587
+    second: Guests Gartins 2_credits_universal_178
+  - first:
+      213: -38290660670898994
+    second: Guests Gartins 2_credits_universal_179
+  - first:
+      213: -2176769757240939522
+    second: Guests Gartins 2_credits_universal_180
+  - first:
+      213: -8764752042076221679
+    second: Guests Gartins 2_credits_universal_181
+  - first:
+      213: 6932569033196642106
+    second: Guests Gartins 2_credits_universal_182
+  - first:
+      213: -4506116345960830562
+    second: Guests Gartins 2_credits_universal_183
+  - first:
+      213: 7327594695368269493
+    second: Guests Gartins 2_credits_universal_184
+  - first:
+      213: -6043570938902348262
+    second: Guests Gartins 2_credits_universal_185
+  - first:
+      213: -8699506205565324614
+    second: Guests Gartins 2_credits_universal_186
+  - first:
+      213: 6392468908069969657
+    second: Guests Gartins 2_credits_universal_187
+  - first:
+      213: -9067723509086453952
+    second: Guests Gartins 2_credits_universal_188
+  - first:
+      213: -4097953780388580370
+    second: Guests Gartins 2_credits_universal_189
+  - first:
+      213: -8007486849146436061
+    second: Guests Gartins 2_credits_universal_190
+  - first:
+      213: 9160173365477758098
+    second: Guests Gartins 2_credits_universal_191
+  - first:
+      213: -108480075404511705
+    second: Guests Gartins 2_credits_universal_192
+  - first:
+      213: -2001292032744570826
+    second: Guests Gartins 2_credits_universal_193
+  - first:
+      213: -8486010407862630040
+    second: Guests Gartins 2_credits_universal_194
+  - first:
+      213: -8392405640084113891
+    second: Guests Gartins 2_credits_universal_195
+  - first:
+      213: 189060641994789124
+    second: Guests Gartins 2_credits_universal_196
+  - first:
+      213: -881665203971096823
+    second: Guests Gartins 2_credits_universal_197
+  - first:
+      213: -4599327117973134310
+    second: Guests Gartins 2_credits_universal_198
+  - first:
+      213: -1577406862922252764
+    second: Guests Gartins 2_credits_universal_199
+  - first:
+      213: -4884962814315326019
+    second: Guests Gartins 2_credits_universal_200
+  - first:
+      213: -3312563241848026444
+    second: Guests Gartins 2_credits_universal_201
+  - first:
+      213: -1444611429672707674
+    second: Guests Gartins 2_credits_universal_202
+  - first:
+      213: 7421461554538248199
+    second: Guests Gartins 2_credits_universal_203
+  - first:
+      213: 8517517167071568589
+    second: Guests Gartins 2_credits_universal_204
+  - first:
+      213: -5660434743116587672
+    second: Guests Gartins 2_credits_universal_205
+  - first:
+      213: 1444430798282964854
+    second: Guests Gartins 2_credits_universal_206
+  - first:
+      213: -1665724155648986453
+    second: Guests Gartins 2_credits_universal_207
+  - first:
+      213: -6641187560138545295
+    second: Guests Gartins 2_credits_universal_208
+  - first:
+      213: -5959347266192644740
+    second: Guests Gartins 2_credits_universal_209
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 770
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760c222904f9d7ca0800000000000000
+      internalID: -6017478427418640281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 770
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c7b179238f5d9c0800000000000000
+      internalID: -3902940605879452596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 769
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d79a112418738740800000000000000
+      internalID: 5153094426492049366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 768
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4c684e95bd3bfe0800000000000000
+      internalID: -1174353898680957707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 769
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84a2882e1fbf7010800000000000000
+      internalID: 1188878962898674831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 770
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4254235f903ae4140800000000000000
+      internalID: 4705877923812492580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 769
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3845f712970e450800000000000000
+      internalID: 6116021478746260384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_67
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 768
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfb2201b99101000800000000000000
+      internalID: 4531753408708546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 769
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ec49486af58acd0800000000000000
+      internalID: -2546680420484461007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_69
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 770
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab57c9881a12d8fe0800000000000000
+      internalID: -1185254149263166022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_70
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 770
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf098f95f6a7e7e0800000000000000
+      internalID: -1736235557454278740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_71
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 705
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790da6b039c806020800000000000000
+      internalID: 2333019170157547671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_72
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 705
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4e34ff09adb39a0800000000000000
+      internalID: -6252163341381016347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_73
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 706
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce69415caa035460800000000000000
+      internalID: 7229133562074197696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_74
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 706
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad5424b102356cb0800000000000000
+      internalID: -4871432439032685151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_75
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 705
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4065d5d115a2defe0800000000000000
+      internalID: -1158223001290975740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_76
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 705
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edb2b26b45716550800000000000000
+      internalID: 6152327532603686372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_77
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 705
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce208cd3016c2cdb0800000000000000
+      internalID: -4773034882001009940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_78
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 705
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45dbeba9c5e9c100800000000000000
+      internalID: 128886718692316490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_79
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 705
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8157404f1d191d200800000000000000
+      internalID: 203103789136508184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_80
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 705
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41708fb8c9df83fb0800000000000000
+      internalID: -4667702164964505836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_81
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 705
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539555113c5e0a330800000000000000
+      internalID: 3720225918180219189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 641
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9575044489c974e0800000000000000
+      internalID: -1983332590965918309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 641
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2519bb3c075074410800000000000000
+      internalID: 1461142585983340882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_84
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 640
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9aed7a1e2e68ad20800000000000000
+      internalID: 3290000672086157980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_85
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 640
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25551f84d7882dd60800000000000000
+      internalID: 7913537566919447890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_86
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 640
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c932ecd5fc70e01c0800000000000000
+      internalID: -4535679187502095460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_87
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 641
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadae6ab37346fa40800000000000000
+      internalID: 5401578967405604266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_88
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 640
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afff54193ffa4fb80800000000000000
+      internalID: -8361865147470970886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_89
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 640
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410c5f09d9d6ec360800000000000000
+      internalID: 7191806178466578452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_90
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 640
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f68cd08a34b5d7f0800000000000000
+      internalID: -588366012938942734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_91
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 641
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1305b6b01135c7f0800000000000000
+      internalID: -593013828074798306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_92
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 641
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377785e2cf0a8a790800000000000000
+      internalID: -7518582572925290637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_93
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 577
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc12db7539890a100800000000000000
+      internalID: 117261348911260111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_94
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 577
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622950b341ac11920800000000000000
+      internalID: 2959368618397504038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_95
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 578
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6015705edac4670800000000000000
+      internalID: 8524379393887372984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_96
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 578
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1906891383f8baca0800000000000000
+      internalID: -6004548206655414127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_97
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 577
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1e01b685a74e590800000000000000
+      internalID: -7645851747196280411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_98
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 577
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e6788ffe86b4910800000000000000
+      internalID: 1822665854077595172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_99
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 577
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00259e81e854fc80800000000000000
+      internalID: -8289903288299216881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_100
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 577
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f71a73283907540800000000000000
+      internalID: 5003661373496983408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_101
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 577
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95744b01e3a110c90800000000000000
+      internalID: -7205449074945538215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_102
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 577
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312734f2d2f6d3470800000000000000
+      internalID: 8375973121836151315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_103
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 577
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dafdaeef63694a0800000000000000
+      internalID: -6587016936492651213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_114
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 512
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f886298d3351142f0800000000000000
+      internalID: -990487130623809393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_115
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 512
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6935f24fa8d130370800000000000000
+      internalID: 8287500221931279254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_126
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 449
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc715dd5628684e20800000000000000
+      internalID: 3335030038060144591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_127
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 449
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5895e4fdd0c890f0800000000000000
+      internalID: -1109925248617834401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_138
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 385
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dd7649252f12150800000000000000
+      internalID: 5846220227794689370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_139
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 385
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02022b709dbdc2c60800000000000000
+      internalID: 7794846780254986272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_150
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 321
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2077325d043a55090800000000000000
+      internalID: -8046345660378417406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_151
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 321
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f051858efb10aa90800000000000000
+      internalID: -7304807815619456778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_162
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 255
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e46bf5e62bf888c0800000000000000
+      internalID: -3996668524805528351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_163
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 255
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38322a313df3a7690800000000000000
+      internalID: -7603694845061618813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_164
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 255
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8966a368e6105b590800000000000000
+      internalID: -7659214017063655784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_175
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 193
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a50dba3577135120800000000000000
+      internalID: 2401288818582685091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_176
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 193
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966aac3e0d681afb0800000000000000
+      internalID: -4638277909481871767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_177
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 193
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3faa3509d4dca4720800000000000000
+      internalID: 2831301048773356275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_188
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 129
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f7177e289f82280800000000000000
+      internalID: -9067723509086453952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_189
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 129
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee338f5afb42127c0800000000000000
+      internalID: -4097953780388580370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_190
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 129
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326c30dd221bfd090800000000000000
+      internalID: -8007486849146436061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_201
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 65
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bac1a148496702d0800000000000000
+      internalID: -3312563241848026444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_202
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 65
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a993effe85b3fbe0800000000000000
+      internalID: -1444611429672707674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guests Gartins 2_credits_universal_203
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 65
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708787896f35ef660800000000000000
+      internalID: 7421461554538248199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9745033aba4954f428257dcaa534ff60
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Guests Gartins 2_credits_universal_0: 1552827281258300237
+      Guests Gartins 2_credits_universal_1: -7429261188802469449
+      Guests Gartins 2_credits_universal_10: -274990672677918588
+      Guests Gartins 2_credits_universal_100: 5003661373496983408
+      Guests Gartins 2_credits_universal_101: -7205449074945538215
+      Guests Gartins 2_credits_universal_102: 8375973121836151315
+      Guests Gartins 2_credits_universal_103: -6587016936492651213
+      Guests Gartins 2_credits_universal_104: 1082591514992152960
+      Guests Gartins 2_credits_universal_105: -4647231766146997698
+      Guests Gartins 2_credits_universal_106: -8438563199654810484
+      Guests Gartins 2_credits_universal_107: 6819095608378176708
+      Guests Gartins 2_credits_universal_108: 3212883833173946917
+      Guests Gartins 2_credits_universal_109: -1279354129225155184
+      Guests Gartins 2_credits_universal_11: -8385217915517253020
+      Guests Gartins 2_credits_universal_110: 5478360617347618970
+      Guests Gartins 2_credits_universal_111: -5293314160459624290
+      Guests Gartins 2_credits_universal_112: -5627031816675890696
+      Guests Gartins 2_credits_universal_113: 1538033697464433665
+      Guests Gartins 2_credits_universal_114: -990487130623809393
+      Guests Gartins 2_credits_universal_115: 8287500221931279254
+      Guests Gartins 2_credits_universal_116: 6282041336026885645
+      Guests Gartins 2_credits_universal_117: -3216463113288224838
+      Guests Gartins 2_credits_universal_118: -5743206588849341008
+      Guests Gartins 2_credits_universal_119: -399130774729486256
+      Guests Gartins 2_credits_universal_12: 455460842841324353
+      Guests Gartins 2_credits_universal_120: -5188738797835324090
+      Guests Gartins 2_credits_universal_121: -2535105824895249407
+      Guests Gartins 2_credits_universal_122: 3261999843468940550
+      Guests Gartins 2_credits_universal_123: 4700053559406974952
+      Guests Gartins 2_credits_universal_124: -268609938870158979
+      Guests Gartins 2_credits_universal_125: -2621806010623774098
+      Guests Gartins 2_credits_universal_126: 3335030038060144591
+      Guests Gartins 2_credits_universal_127: -1109925248617834401
+      Guests Gartins 2_credits_universal_128: 5630911475724309325
+      Guests Gartins 2_credits_universal_129: 482931487367042003
+      Guests Gartins 2_credits_universal_13: 1923149753395312884
+      Guests Gartins 2_credits_universal_130: 1315905644029855389
+      Guests Gartins 2_credits_universal_131: -8945504275989148905
+      Guests Gartins 2_credits_universal_132: 7427870008854437454
+      Guests Gartins 2_credits_universal_133: -4454136700668422305
+      Guests Gartins 2_credits_universal_134: -6404436957697224465
+      Guests Gartins 2_credits_universal_135: -8617216071206507948
+      Guests Gartins 2_credits_universal_136: 6662669696790988321
+      Guests Gartins 2_credits_universal_137: 753176381769228641
+      Guests Gartins 2_credits_universal_138: 5846220227794689370
+      Guests Gartins 2_credits_universal_139: 7794846780254986272
+      Guests Gartins 2_credits_universal_14: 6305039160576724044
+      Guests Gartins 2_credits_universal_140: 3735529155122789310
+      Guests Gartins 2_credits_universal_141: 7828550589294368022
+      Guests Gartins 2_credits_universal_142: -1481013097101272920
+      Guests Gartins 2_credits_universal_143: -7433840446954994318
+      Guests Gartins 2_credits_universal_144: 4627460519376783510
+      Guests Gartins 2_credits_universal_145: -3489406205308986113
+      Guests Gartins 2_credits_universal_146: -5945066065262619650
+      Guests Gartins 2_credits_universal_147: 3366114171163005527
+      Guests Gartins 2_credits_universal_148: -7587824606831550009
+      Guests Gartins 2_credits_universal_149: -1115987869312676739
+      Guests Gartins 2_credits_universal_15: -1259132721090988200
+      Guests Gartins 2_credits_universal_150: -8046345660378417406
+      Guests Gartins 2_credits_universal_151: -7304807815619456778
+      Guests Gartins 2_credits_universal_152: 6041676753613103958
+      Guests Gartins 2_credits_universal_153: 5582971897263886978
+      Guests Gartins 2_credits_universal_154: 8588400318370017966
+      Guests Gartins 2_credits_universal_155: 6211064665468326650
+      Guests Gartins 2_credits_universal_156: 349442297024222951
+      Guests Gartins 2_credits_universal_157: 2859081245504896957
+      Guests Gartins 2_credits_universal_158: 184755457192823955
+      Guests Gartins 2_credits_universal_159: -79312158231779701
+      Guests Gartins 2_credits_universal_16: -385168058979562078
+      Guests Gartins 2_credits_universal_160: 3267776902450088451
+      Guests Gartins 2_credits_universal_161: -3623175298168045315
+      Guests Gartins 2_credits_universal_162: -3996668524805528351
+      Guests Gartins 2_credits_universal_163: -7603694845061618813
+      Guests Gartins 2_credits_universal_164: -7659214017063655784
+      Guests Gartins 2_credits_universal_165: 7891714360961874271
+      Guests Gartins 2_credits_universal_166: 1409140431553678438
+      Guests Gartins 2_credits_universal_167: -7896157779266478415
+      Guests Gartins 2_credits_universal_168: -7638354133389897677
+      Guests Gartins 2_credits_universal_169: -4764328750726231506
+      Guests Gartins 2_credits_universal_17: -8757423278920009894
+      Guests Gartins 2_credits_universal_170: -6994269933343196977
+      Guests Gartins 2_credits_universal_171: 4840874737251206723
+      Guests Gartins 2_credits_universal_172: 8380509020072044981
+      Guests Gartins 2_credits_universal_173: -1892273169614127521
+      Guests Gartins 2_credits_universal_174: -2143620510802009342
+      Guests Gartins 2_credits_universal_175: 2401288818582685091
+      Guests Gartins 2_credits_universal_176: -4638277909481871767
+      Guests Gartins 2_credits_universal_177: 2831301048773356275
+      Guests Gartins 2_credits_universal_178: -1914327419788841587
+      Guests Gartins 2_credits_universal_179: -38290660670898994
+      Guests Gartins 2_credits_universal_18: -5965780748873754247
+      Guests Gartins 2_credits_universal_180: -2176769757240939522
+      Guests Gartins 2_credits_universal_181: -8764752042076221679
+      Guests Gartins 2_credits_universal_182: 6932569033196642106
+      Guests Gartins 2_credits_universal_183: -4506116345960830562
+      Guests Gartins 2_credits_universal_184: 7327594695368269493
+      Guests Gartins 2_credits_universal_185: -6043570938902348262
+      Guests Gartins 2_credits_universal_186: -8699506205565324614
+      Guests Gartins 2_credits_universal_187: 6392468908069969657
+      Guests Gartins 2_credits_universal_188: -9067723509086453952
+      Guests Gartins 2_credits_universal_189: -4097953780388580370
+      Guests Gartins 2_credits_universal_19: -1642409642522022697
+      Guests Gartins 2_credits_universal_190: -8007486849146436061
+      Guests Gartins 2_credits_universal_191: 9160173365477758098
+      Guests Gartins 2_credits_universal_192: -108480075404511705
+      Guests Gartins 2_credits_universal_193: -2001292032744570826
+      Guests Gartins 2_credits_universal_194: -8486010407862630040
+      Guests Gartins 2_credits_universal_195: -8392405640084113891
+      Guests Gartins 2_credits_universal_196: 189060641994789124
+      Guests Gartins 2_credits_universal_197: -881665203971096823
+      Guests Gartins 2_credits_universal_198: -4599327117973134310
+      Guests Gartins 2_credits_universal_199: -1577406862922252764
+      Guests Gartins 2_credits_universal_2: 2853726002788243475
+      Guests Gartins 2_credits_universal_20: 8786540590113202292
+      Guests Gartins 2_credits_universal_200: -4884962814315326019
+      Guests Gartins 2_credits_universal_201: -3312563241848026444
+      Guests Gartins 2_credits_universal_202: -1444611429672707674
+      Guests Gartins 2_credits_universal_203: 7421461554538248199
+      Guests Gartins 2_credits_universal_204: 8517517167071568589
+      Guests Gartins 2_credits_universal_205: -5660434743116587672
+      Guests Gartins 2_credits_universal_206: 1444430798282964854
+      Guests Gartins 2_credits_universal_207: -1665724155648986453
+      Guests Gartins 2_credits_universal_208: -6641187560138545295
+      Guests Gartins 2_credits_universal_209: -5959347266192644740
+      Guests Gartins 2_credits_universal_21: 7243138243442852788
+      Guests Gartins 2_credits_universal_22: 372796084361687305
+      Guests Gartins 2_credits_universal_23: 1468748593779938116
+      Guests Gartins 2_credits_universal_24: -7592590411380439704
+      Guests Gartins 2_credits_universal_25: 6018168933952416356
+      Guests Gartins 2_credits_universal_26: -7478083992557792478
+      Guests Gartins 2_credits_universal_27: -5385798364406320281
+      Guests Gartins 2_credits_universal_28: -8532454830372386158
+      Guests Gartins 2_credits_universal_29: -7451556200723025056
+      Guests Gartins 2_credits_universal_3: -4006071375656448603
+      Guests Gartins 2_credits_universal_30: 9137203650044616984
+      Guests Gartins 2_credits_universal_31: 2404344354309841923
+      Guests Gartins 2_credits_universal_32: -8401458583490461210
+      Guests Gartins 2_credits_universal_33: 777967415480798902
+      Guests Gartins 2_credits_universal_34: 4425082419391179805
+      Guests Gartins 2_credits_universal_35: 6477313820262626561
+      Guests Gartins 2_credits_universal_36: 1464904563599934776
+      Guests Gartins 2_credits_universal_37: -6953047351704590075
+      Guests Gartins 2_credits_universal_38: 7608769985837682761
+      Guests Gartins 2_credits_universal_39: 1185909613274705524
+      Guests Gartins 2_credits_universal_4: -2226755235287149144
+      Guests Gartins 2_credits_universal_40: 519502122316709720
+      Guests Gartins 2_credits_universal_41: -7542387548103366800
+      Guests Gartins 2_credits_universal_42: 3667208919432546962
+      Guests Gartins 2_credits_universal_43: 1718068002795002469
+      Guests Gartins 2_credits_universal_44: -9212290419991030847
+      Guests Gartins 2_credits_universal_45: -6141693930933944004
+      Guests Gartins 2_credits_universal_46: -4780651397218639893
+      Guests Gartins 2_credits_universal_47: 1399927968414625084
+      Guests Gartins 2_credits_universal_48: -4466352838938605745
+      Guests Gartins 2_credits_universal_49: 4363863327447765858
+      Guests Gartins 2_credits_universal_5: 68824720089698903
+      Guests Gartins 2_credits_universal_50: 7910293729842112523
+      Guests Gartins 2_credits_universal_51: -7196777174047957313
+      Guests Gartins 2_credits_universal_52: -2067701901485642336
+      Guests Gartins 2_credits_universal_53: 2576104300184033027
+      Guests Gartins 2_credits_universal_54: -3830750311554219264
+      Guests Gartins 2_credits_universal_55: 3793984477170129056
+      Guests Gartins 2_credits_universal_56: -892109100835885686
+      Guests Gartins 2_credits_universal_57: 4412097197015531212
+      Guests Gartins 2_credits_universal_58: 947763478204564401
+      Guests Gartins 2_credits_universal_59: -4400153706379698099
+      Guests Gartins 2_credits_universal_6: 2711013020018831355
+      Guests Gartins 2_credits_universal_60: -6017478427418640281
+      Guests Gartins 2_credits_universal_61: -3902940605879452596
+      Guests Gartins 2_credits_universal_62: 5153094426492049366
+      Guests Gartins 2_credits_universal_63: -1174353898680957707
+      Guests Gartins 2_credits_universal_64: 1188878962898674831
+      Guests Gartins 2_credits_universal_65: 4705877923812492580
+      Guests Gartins 2_credits_universal_66: 6116021478746260384
+      Guests Gartins 2_credits_universal_67: 4531753408708546
+      Guests Gartins 2_credits_universal_68: -2546680420484461007
+      Guests Gartins 2_credits_universal_69: -1185254149263166022
+      Guests Gartins 2_credits_universal_7: 7786588130535162955
+      Guests Gartins 2_credits_universal_70: -1736235557454278740
+      Guests Gartins 2_credits_universal_71: 2333019170157547671
+      Guests Gartins 2_credits_universal_72: -6252163341381016347
+      Guests Gartins 2_credits_universal_73: 7229133562074197696
+      Guests Gartins 2_credits_universal_74: -4871432439032685151
+      Guests Gartins 2_credits_universal_75: -1158223001290975740
+      Guests Gartins 2_credits_universal_76: 6152327532603686372
+      Guests Gartins 2_credits_universal_77: -4773034882001009940
+      Guests Gartins 2_credits_universal_78: 128886718692316490
+      Guests Gartins 2_credits_universal_79: 203103789136508184
+      Guests Gartins 2_credits_universal_8: 8970019832319669073
+      Guests Gartins 2_credits_universal_80: -4667702164964505836
+      Guests Gartins 2_credits_universal_81: 3720225918180219189
+      Guests Gartins 2_credits_universal_82: -1983332590965918309
+      Guests Gartins 2_credits_universal_83: 1461142585983340882
+      Guests Gartins 2_credits_universal_84: 3290000672086157980
+      Guests Gartins 2_credits_universal_85: 7913537566919447890
+      Guests Gartins 2_credits_universal_86: -4535679187502095460
+      Guests Gartins 2_credits_universal_87: 5401578967405604266
+      Guests Gartins 2_credits_universal_88: -8361865147470970886
+      Guests Gartins 2_credits_universal_89: 7191806178466578452
+      Guests Gartins 2_credits_universal_9: -6298139087524644828
+      Guests Gartins 2_credits_universal_90: -588366012938942734
+      Guests Gartins 2_credits_universal_91: -593013828074798306
+      Guests Gartins 2_credits_universal_92: -7518582572925290637
+      Guests Gartins 2_credits_universal_93: 117261348911260111
+      Guests Gartins 2_credits_universal_94: 2959368618397504038
+      Guests Gartins 2_credits_universal_95: 8524379393887372984
+      Guests Gartins 2_credits_universal_96: -6004548206655414127
+      Guests Gartins 2_credits_universal_97: -7645851747196280411
+      Guests Gartins 2_credits_universal_98: 1822665854077595172
+      Guests Gartins 2_credits_universal_99: -8289903288299216881
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

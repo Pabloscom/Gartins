@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 724618a09aa65ed43a56263d7fd43982
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7480858639002088552
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._0
+  - first:
+      213: -2876588702644112867
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._1
+  - first:
+      213: -4120832736656669726
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._2
+  - first:
+      213: -5347779210199404756
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._3
+  - first:
+      213: 1982579556439046067
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._4
+  - first:
+      213: 6578512771977111445
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._5
+  - first:
+      213: 4911543178713858837
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._6
+  - first:
+      213: -446502258627841606
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._7
+  - first:
+      213: -4299997261426787540
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._8
+  - first:
+      213: 3068485402861218342
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._9
+  - first:
+      213: 5673155282877740515
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._10
+  - first:
+      213: 222515937858048883
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._11
+  - first:
+      213: 2501734070557428235
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._12
+  - first:
+      213: -5908605130077368316
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._13
+  - first:
+      213: 6709035584323573663
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._14
+  - first:
+      213: 88701569061130572
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._15
+  - first:
+      213: -2995801521355522482
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._16
+  - first:
+      213: 2574912726232287553
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._17
+  - first:
+      213: -2824214774417227035
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._18
+  - first:
+      213: -5996199463279065636
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._19
+  - first:
+      213: 5704754057147778595
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._20
+  - first:
+      213: -6549136313900159136
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._21
+  - first:
+      213: -8499958012785016406
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._22
+  - first:
+      213: -4055920605382620434
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._23
+  - first:
+      213: -3327402168703426128
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._24
+  - first:
+      213: 4857135018284678724
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._25
+  - first:
+      213: -925245638112405391
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._26
+  - first:
+      213: 5035586422125208506
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._27
+  - first:
+      213: 2411471671335131311
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._28
+  - first:
+      213: 6320853571438439255
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._29
+  - first:
+      213: -681148490325760700
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._30
+  - first:
+      213: -1153687553040024854
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._31
+  - first:
+      213: -7091097100420204841
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._32
+  - first:
+      213: -6331581312997349781
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._33
+  - first:
+      213: -7476752338414463189
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._34
+  - first:
+      213: -6209555312572564103
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._35
+  - first:
+      213: -3287500630222338434
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._36
+  - first:
+      213: 2901586471162354975
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._37
+  - first:
+      213: -2876147750146720108
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._38
+  - first:
+      213: -2671233032752774953
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._39
+  - first:
+      213: 4174792756889705004
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._40
+  - first:
+      213: -8311290111444689441
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._41
+  - first:
+      213: 7864221180876156229
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._42
+  - first:
+      213: -4763674716356517260
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._43
+  - first:
+      213: -5319749164431575377
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._44
+  - first:
+      213: -1056441046760895502
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._45
+  - first:
+      213: 2244620291600388860
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._46
+  - first:
+      213: -3858718392873681021
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._47
+  - first:
+      213: 4281901306427623816
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._48
+  - first:
+      213: 7839581249489975557
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._49
+  - first:
+      213: -9042676982121765407
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._50
+  - first:
+      213: 4421816929364945421
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._51
+  - first:
+      213: -2739973626622351506
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._52
+  - first:
+      213: -2443100384475788929
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._53
+  - first:
+      213: 8401910141869334105
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._54
+  - first:
+      213: 951526256995856728
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._55
+  - first:
+      213: -5244101786215780074
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._56
+  - first:
+      213: 2392138258059715059
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._57
+  - first:
+      213: 3336253654847447624
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._58
+  - first:
+      213: -2209320533352775718
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._59
+  - first:
+      213: -5767107580436732962
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._60
+  - first:
+      213: -2460587361201098422
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._61
+  - first:
+      213: -6855921989820673084
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._62
+  - first:
+      213: -628239844221785331
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._63
+  - first:
+      213: 1669797513508878492
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._64
+  - first:
+      213: 3292608718066911888
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._65
+  - first:
+      213: 321077754329784373
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._66
+  - first:
+      213: 1093263570899205213
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._67
+  - first:
+      213: 5652563565170573007
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._68
+  - first:
+      213: -7198719801553456368
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._69
+  - first:
+      213: 8262006536118731144
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._70
+  - first:
+      213: 3586095900876731511
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._71
+  - first:
+      213: -6506421864394075002
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._72
+  - first:
+      213: -9204415121518620255
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._73
+  - first:
+      213: 7996013388240543076
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._74
+  - first:
+      213: 3653932334377688271
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._75
+  - first:
+      213: -3335237564826886293
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._76
+  - first:
+      213: -1965706831303473301
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._77
+  - first:
+      213: 1792115985375069800
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._78
+  - first:
+      213: 760237468486914153
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._79
+  - first:
+      213: 1266463781627132509
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._80
+  - first:
+      213: -2250167860741854251
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._81
+  - first:
+      213: 1816360447211633625
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._82
+  - first:
+      213: -8578259908928662280
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._83
+  - first:
+      213: -289387457864844540
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._84
+  - first:
+      213: -5237246101624745687
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._85
+  - first:
+      213: -2703889570314049931
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._86
+  - first:
+      213: 7889640670427680558
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._87
+  - first:
+      213: -286109763831824516
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._88
+  - first:
+      213: -6725426966074396656
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._89
+  - first:
+      213: 5228955062343228718
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._90
+  - first:
+      213: -645149237860681342
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._91
+  - first:
+      213: -6823018485676055286
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._92
+  - first:
+      213: -7823949195562173581
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._93
+  - first:
+      213: -4297206387767434178
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._94
+  - first:
+      213: -7124876225839021764
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._95
+  - first:
+      213: 6630807245717395849
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._96
+  - first:
+      213: 4804984373774688993
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._97
+  - first:
+      213: -1095337082423688124
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._98
+  - first:
+      213: -8237280167494413093
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._99
+  - first:
+      213: 3631313977032799701
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._100
+  - first:
+      213: 4089640400921980159
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._101
+  - first:
+      213: -8187414216923910776
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._102
+  - first:
+      213: 4694613051049622387
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._103
+  - first:
+      213: -8580256565770013080
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._104
+  - first:
+      213: 5139496158050359154
+    second: ChatGPT Image 2 mar 2026, 04_01_18 p.m._105
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Barra de ambiente_0
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 495
+        width: 1198
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3dca434b01bf4448fe8b0188df194c
+      internalID: 1208020841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de ambiente_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 285
+        width: 881
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5b71d2e58d3d84b9edc130054a614e
+      internalID: -1922055183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 523e9fd429a74d7439904a8781b76a40
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":2.0},"gridSpriteSize":{"x":1536.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Barra de ambiente_0: 1208020841
+      Barra de ambiente_1: -1922055183
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

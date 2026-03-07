@@ -1,0 +1,2070 @@
+fileFormatVersion: 2
+guid: e064f020f59578e48a083f0d33573b98
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8763548367016857600
+    second: Temp_universal_0
+  - first:
+      213: 5338322312823070167
+    second: Temp_universal_1
+  - first:
+      213: -7330908099869654559
+    second: Temp_universal_2
+  - first:
+      213: 2835712205520532096
+    second: Temp_universal_3
+  - first:
+      213: 6524774209078581193
+    second: Temp_universal_4
+  - first:
+      213: 7461095963803601860
+    second: Temp_universal_5
+  - first:
+      213: -1359550177705379070
+    second: Temp_universal_6
+  - first:
+      213: -2676965163779160479
+    second: Temp_universal_7
+  - first:
+      213: 288714238185470732
+    second: Temp_universal_8
+  - first:
+      213: 3839292874168047205
+    second: Temp_universal_9
+  - first:
+      213: -2982170716797467073
+    second: Temp_universal_10
+  - first:
+      213: 5071602280326082365
+    second: Temp_universal_11
+  - first:
+      213: 4976996761522133961
+    second: Temp_universal_12
+  - first:
+      213: -2900987045580293912
+    second: Temp_universal_13
+  - first:
+      213: -8252496144008191817
+    second: Temp_universal_14
+  - first:
+      213: 6838981345161794212
+    second: Temp_universal_15
+  - first:
+      213: -6825913834153581122
+    second: Temp_universal_16
+  - first:
+      213: -1848287323409692249
+    second: Temp_universal_17
+  - first:
+      213: 3708171676349855921
+    second: Temp_universal_18
+  - first:
+      213: -7548944544659151933
+    second: Temp_universal_19
+  - first:
+      213: 6730937491815723988
+    second: Temp_universal_20
+  - first:
+      213: -9028583270486322974
+    second: Temp_universal_21
+  - first:
+      213: 3988150410154730256
+    second: Temp_universal_22
+  - first:
+      213: 8821624074288531949
+    second: Temp_universal_23
+  - first:
+      213: 6553017018995496217
+    second: Temp_universal_24
+  - first:
+      213: 3024627178332963229
+    second: Temp_universal_25
+  - first:
+      213: -8264588307213167020
+    second: Temp_universal_26
+  - first:
+      213: 552594044425275199
+    second: Temp_universal_27
+  - first:
+      213: 3170099165585377460
+    second: Temp_universal_28
+  - first:
+      213: 450198860610130656
+    second: Temp_universal_29
+  - first:
+      213: 5780891790842432118
+    second: Temp_universal_30
+  - first:
+      213: -3591028823966236197
+    second: Temp_universal_31
+  - first:
+      213: -2282702793481779282
+    second: Temp_universal_32
+  - first:
+      213: 438374624622545053
+    second: Temp_universal_33
+  - first:
+      213: -6035834326780382240
+    second: Temp_universal_34
+  - first:
+      213: -1678274387378262071
+    second: Temp_universal_35
+  - first:
+      213: -7846810445807196528
+    second: Temp_universal_36
+  - first:
+      213: -2679784017392859682
+    second: Temp_universal_37
+  - first:
+      213: -5134691944356496456
+    second: Temp_universal_38
+  - first:
+      213: 5936303424642480982
+    second: Temp_universal_39
+  - first:
+      213: -7681428179634660123
+    second: Temp_universal_40
+  - first:
+      213: 6474988926538230842
+    second: Temp_universal_41
+  - first:
+      213: 8694717859853191996
+    second: Temp_universal_42
+  - first:
+      213: 1537991468234163853
+    second: Temp_universal_43
+  - first:
+      213: 1620406004691902349
+    second: Temp_universal_44
+  - first:
+      213: -630376867550704744
+    second: Temp_universal_45
+  - first:
+      213: 2114766096585114353
+    second: Temp_universal_46
+  - first:
+      213: 4754442439244275721
+    second: Temp_universal_47
+  - first:
+      213: -7739646182296637625
+    second: Temp_universal_48
+  - first:
+      213: -4320861271989742396
+    second: Temp_universal_49
+  - first:
+      213: 5605907558371218040
+    second: Temp_universal_50
+  - first:
+      213: 5230991765895386355
+    second: Temp_universal_51
+  - first:
+      213: -6627882034198114377
+    second: Temp_universal_52
+  - first:
+      213: -3269827989853082230
+    second: Temp_universal_53
+  - first:
+      213: 221327869048272427
+    second: Temp_universal_54
+  - first:
+      213: -984321132278686512
+    second: Temp_universal_55
+  - first:
+      213: 774273300640979620
+    second: Temp_universal_56
+  - first:
+      213: 6925241240302616631
+    second: Temp_universal_57
+  - first:
+      213: 7732577089577796057
+    second: Temp_universal_58
+  - first:
+      213: 3683279418345145642
+    second: Temp_universal_59
+  - first:
+      213: 2998489441437678077
+    second: Temp_universal_60
+  - first:
+      213: 4280472270041560447
+    second: Temp_universal_61
+  - first:
+      213: 9180093324927630295
+    second: Temp_universal_62
+  - first:
+      213: 5668404615445961153
+    second: Temp_universal_63
+  - first:
+      213: 2872479042538296691
+    second: Temp_universal_64
+  - first:
+      213: 7421684538616390572
+    second: Temp_universal_65
+  - first:
+      213: -8188685499824143490
+    second: Temp_universal_66
+  - first:
+      213: 7141252427077358103
+    second: Temp_universal_67
+  - first:
+      213: 5720038524328870295
+    second: Temp_universal_68
+  - first:
+      213: -4571181459233804432
+    second: Temp_universal_69
+  - first:
+      213: -4608139373837814866
+    second: Temp_universal_70
+  - first:
+      213: 815557698538465648
+    second: Temp_universal_71
+  - first:
+      213: 8539601234295092675
+    second: Temp_universal_72
+  - first:
+      213: 6298852658611287582
+    second: Temp_universal_73
+  - first:
+      213: 3007128136243413759
+    second: Temp_universal_74
+  - first:
+      213: 334298388048727315
+    second: Temp_universal_75
+  - first:
+      213: -2888904799517085534
+    second: Temp_universal_76
+  - first:
+      213: -9025563590847431938
+    second: Temp_universal_77
+  - first:
+      213: -491868730884059317
+    second: Temp_universal_78
+  - first:
+      213: 4897833402634317660
+    second: Temp_universal_79
+  - first:
+      213: 1937229743670582004
+    second: Temp_universal_80
+  - first:
+      213: 983034654534900944
+    second: Temp_universal_81
+  - first:
+      213: 8318376311663191328
+    second: Temp_universal_82
+  - first:
+      213: 5884420217891496864
+    second: Temp_universal_83
+  - first:
+      213: 2355388379564236547
+    second: Temp_universal_84
+  - first:
+      213: 8640473849940964139
+    second: Temp_universal_85
+  - first:
+      213: 4554538892345958169
+    second: Temp_universal_86
+  - first:
+      213: -3535853048985895754
+    second: Temp_universal_87
+  - first:
+      213: 7699311693681714791
+    second: Temp_universal_88
+  - first:
+      213: 5727157194331838099
+    second: Temp_universal_89
+  - first:
+      213: -6240268906944996303
+    second: Temp_universal_90
+  - first:
+      213: -2919072660741553221
+    second: Temp_universal_91
+  - first:
+      213: 547738969207995842
+    second: Temp_universal_92
+  - first:
+      213: -7448331494791554757
+    second: Temp_universal_93
+  - first:
+      213: -7166153682912893036
+    second: Temp_universal_94
+  - first:
+      213: -628716073823023738
+    second: Temp_universal_95
+  - first:
+      213: 796251359421864371
+    second: Temp_universal_96
+  - first:
+      213: -4475507119755577638
+    second: Temp_universal_97
+  - first:
+      213: 155014506003891535
+    second: Temp_universal_98
+  - first:
+      213: -845360256391276142
+    second: Temp_universal_99
+  - first:
+      213: -7411363178697335847
+    second: Temp_universal_100
+  - first:
+      213: -4816225756602484277
+    second: Temp_universal_101
+  - first:
+      213: 3348146668018468079
+    second: Temp_universal_102
+  - first:
+      213: 2430044669822920453
+    second: Temp_universal_103
+  - first:
+      213: -4932728984188147358
+    second: Temp_universal_104
+  - first:
+      213: 4992304182268614193
+    second: Temp_universal_105
+  - first:
+      213: -4500476568759483221
+    second: Temp_universal_106
+  - first:
+      213: 9127009685442843164
+    second: Temp_universal_107
+  - first:
+      213: 7867133651856667795
+    second: Temp_universal_108
+  - first:
+      213: 3064034761846461460
+    second: Temp_universal_109
+  - first:
+      213: 4992801815988941610
+    second: Temp_universal_110
+  - first:
+      213: 4698384153104508758
+    second: Temp_universal_111
+  - first:
+      213: -148828191108471771
+    second: Temp_universal_112
+  - first:
+      213: 2206283587607568495
+    second: Temp_universal_113
+  - first:
+      213: -2198392574134383472
+    second: Temp_universal_114
+  - first:
+      213: -6482942483389998838
+    second: Temp_universal_115
+  - first:
+      213: -4746775257774563440
+    second: Temp_universal_116
+  - first:
+      213: -7022326392132090140
+    second: Temp_universal_117
+  - first:
+      213: 8964782758421387697
+    second: Temp_universal_118
+  - first:
+      213: 8941454430449897812
+    second: Temp_universal_119
+  - first:
+      213: -6756332190360704018
+    second: Temp_universal_120
+  - first:
+      213: -4741156941227381767
+    second: Temp_universal_121
+  - first:
+      213: 7709331882864544365
+    second: Temp_universal_122
+  - first:
+      213: -3489246161620163524
+    second: Temp_universal_123
+  - first:
+      213: 4517505714669808884
+    second: Temp_universal_124
+  - first:
+      213: 3835919139560173982
+    second: Temp_universal_125
+  - first:
+      213: 8169276590696840442
+    second: Temp_universal_126
+  - first:
+      213: 4389068103716367682
+    second: Temp_universal_127
+  - first:
+      213: 680691397764275771
+    second: Temp_universal_128
+  - first:
+      213: 3440015977297329798
+    second: Temp_universal_129
+  - first:
+      213: -2136024650265237899
+    second: Temp_universal_130
+  - first:
+      213: 2391373108810661125
+    second: Temp_universal_131
+  - first:
+      213: -2227845033900637259
+    second: Temp_universal_132
+  - first:
+      213: -4981087297719417942
+    second: Temp_universal_133
+  - first:
+      213: 5526016771117733130
+    second: Temp_universal_134
+  - first:
+      213: -5064909149875043632
+    second: Temp_universal_135
+  - first:
+      213: -3712943820032066877
+    second: Temp_universal_136
+  - first:
+      213: -8054314207482634766
+    second: Temp_universal_137
+  - first:
+      213: -8688887672934749403
+    second: Temp_universal_138
+  - first:
+      213: -7927180257572187906
+    second: Temp_universal_139
+  - first:
+      213: -4508207360061661625
+    second: Temp_universal_140
+  - first:
+      213: -626903214067482371
+    second: Temp_universal_141
+  - first:
+      213: -8160929344756308453
+    second: Temp_universal_142
+  - first:
+      213: -1556347325385772517
+    second: Temp_universal_143
+  - first:
+      213: 1128848514605652872
+    second: Temp_universal_144
+  - first:
+      213: -5450246966753258693
+    second: Temp_universal_145
+  - first:
+      213: 5700338204252892955
+    second: Temp_universal_146
+  - first:
+      213: 7374160354142895668
+    second: Temp_universal_147
+  - first:
+      213: 5185500334816343379
+    second: Temp_universal_148
+  - first:
+      213: -2841460990839570529
+    second: Temp_universal_149
+  - first:
+      213: 7315890984581317272
+    second: Temp_universal_150
+  - first:
+      213: -6462117644189868239
+    second: Temp_universal_151
+  - first:
+      213: -7477198657571745323
+    second: Temp_universal_152
+  - first:
+      213: 2382530066846746119
+    second: Temp_universal_153
+  - first:
+      213: 2657279178538923280
+    second: Temp_universal_154
+  - first:
+      213: 7729755048236277331
+    second: Temp_universal_155
+  - first:
+      213: 3019716108476774283
+    second: Temp_universal_156
+  - first:
+      213: 6383741326019761529
+    second: Temp_universal_157
+  - first:
+      213: 3424611816914173524
+    second: Temp_universal_158
+  - first:
+      213: -6041157101229868485
+    second: Temp_universal_159
+  - first:
+      213: 3255873556193502283
+    second: Temp_universal_160
+  - first:
+      213: 2118324587895176111
+    second: Temp_universal_161
+  - first:
+      213: -6783389419271020360
+    second: Temp_universal_162
+  - first:
+      213: 5795605548779807804
+    second: Temp_universal_163
+  - first:
+      213: 5217501958893910748
+    second: Temp_universal_164
+  - first:
+      213: -1135409996416234552
+    second: Temp_universal_165
+  - first:
+      213: -3127611097562813797
+    second: Temp_universal_166
+  - first:
+      213: 62826087356385762
+    second: Temp_universal_167
+  - first:
+      213: 1331277806323516398
+    second: Temp_universal_168
+  - first:
+      213: 8652340813480310138
+    second: Temp_universal_169
+  - first:
+      213: -5993389581204697655
+    second: Temp_universal_170
+  - first:
+      213: 6817011151318367159
+    second: Temp_universal_171
+  - first:
+      213: 4192253245534421708
+    second: Temp_universal_172
+  - first:
+      213: 3645381157336662043
+    second: Temp_universal_173
+  - first:
+      213: -3895373639560555939
+    second: Temp_universal_174
+  - first:
+      213: 892934314852240017
+    second: Temp_universal_175
+  - first:
+      213: -2343499673520406217
+    second: Temp_universal_176
+  - first:
+      213: -8848910329704443051
+    second: Temp_universal_177
+  - first:
+      213: -180060628193393549
+    second: Temp_universal_178
+  - first:
+      213: 7415600230456551187
+    second: Temp_universal_179
+  - first:
+      213: 2457216686626432040
+    second: Temp_universal_180
+  - first:
+      213: 7887140175624678005
+    second: Temp_universal_181
+  - first:
+      213: -4836472870812062293
+    second: Temp_universal_182
+  - first:
+      213: 944123637524496647
+    second: Temp_universal_183
+  - first:
+      213: 1791226504220847897
+    second: Temp_universal_184
+  - first:
+      213: -2688132368738632267
+    second: Temp_universal_185
+  - first:
+      213: -8542214271268582012
+    second: Temp_universal_186
+  - first:
+      213: -5450239495510860554
+    second: Temp_universal_187
+  - first:
+      213: 2906807468546455171
+    second: Temp_universal_188
+  - first:
+      213: -36112611089522852
+    second: Temp_universal_189
+  - first:
+      213: 2243383316883764225
+    second: Temp_universal_190
+  - first:
+      213: -5005023170028900074
+    second: Temp_universal_191
+  - first:
+      213: 8582086453640612619
+    second: Temp_universal_192
+  - first:
+      213: -3202390800383493979
+    second: Temp_universal_193
+  - first:
+      213: 98913312214487729
+    second: Temp_universal_194
+  - first:
+      213: -6462673741974431745
+    second: Temp_universal_195
+  - first:
+      213: 8137553417730042216
+    second: Temp_universal_196
+  - first:
+      213: -1838124921715218418
+    second: Temp_universal_197
+  - first:
+      213: -7403587819084966436
+    second: Temp_universal_198
+  - first:
+      213: 1290713100762154361
+    second: Temp_universal_199
+  - first:
+      213: -7908060570969389921
+    second: Temp_universal_200
+  - first:
+      213: 6025831647156553346
+    second: Temp_universal_201
+  - first:
+      213: 1419468889652821709
+    second: Temp_universal_202
+  - first:
+      213: 8922470178712593370
+    second: Temp_universal_203
+  - first:
+      213: 6591508825709941137
+    second: Temp_universal_204
+  - first:
+      213: 5967630930016365771
+    second: Temp_universal_205
+  - first:
+      213: -7869451799170897382
+    second: Temp_universal_206
+  - first:
+      213: 3636183960475334909
+    second: Temp_universal_207
+  - first:
+      213: -6408251084269607055
+    second: Temp_universal_208
+  - first:
+      213: 6339861057012682832
+    second: Temp_universal_209
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Temp_universal_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 770
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9f6a3a246cc9920800000000000000
+      internalID: 2998489441437678077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 770
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75bcb6c9da476b30800000000000000
+      internalID: 4280472270041560447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 769
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbfe35ad3e366f70800000000000000
+      internalID: 9180093324927630295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 768
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c957da17f73aae40800000000000000
+      internalID: 5668404615445961153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 769
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375df3b58781dd720800000000000000
+      internalID: 2872479042538296691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 770
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca32d3f14ce1ff660800000000000000
+      internalID: 7421684538616390572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 769
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7307956ce1fb5e80800000000000000
+      internalID: -8188685499824143490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_67
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 768
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71297571f33da1360800000000000000
+      internalID: 7141252427077358103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 769
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7910c285bb8a16f40800000000000000
+      internalID: 5720038524328870295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_69
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 770
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f64869ea6ef80c0800000000000000
+      internalID: -4571181459233804432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_70
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 770
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3f7ea87a99c00c0800000000000000
+      internalID: -4608139373837814866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_71
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 705
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0796833e761715b00800000000000000
+      internalID: 815557698538465648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_72
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 705
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c575ade312c28670800000000000000
+      internalID: 8539601234295092675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_73
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 705
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16fc09ce150a6750800000000000000
+      internalID: 6298852658611287582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_74
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 705
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff20fd28b177bb920800000000000000
+      internalID: 3007128136243413759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_75
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 705
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d41acdc9aa3a400800000000000000
+      internalID: 334298388048727315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_76
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 705
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0fcd2146c88e7d0800000000000000
+      internalID: -2888904799517085534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_77
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 705
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaf6ddcbb1ceb280800000000000000
+      internalID: -9025563590847431938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_78
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 705
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f888bcef78c29f0800000000000000
+      internalID: -491868730884059317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_79
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 705
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5faf05a78998f340800000000000000
+      internalID: 4897833402634317660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_80
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 705
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa5ecf103c62ea10800000000000000
+      internalID: 1937229743670582004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_81
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 705
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc93795fc074ad00800000000000000
+      internalID: 983034654534900944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 640
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02565bcce2fc07370800000000000000
+      internalID: 8318376311663191328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 640
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3ac8cd209a9a150800000000000000
+      internalID: 5884420217891496864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_84
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 640
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f5208704500b020800000000000000
+      internalID: 2355388379564236547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_85
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 640
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2378c4ff2129e770800000000000000
+      internalID: 8640473849940964139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_86
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 640
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f5bf9ddf8f43f30800000000000000
+      internalID: 4554538892345958169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_87
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 640
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcb63db2602eeec0800000000000000
+      internalID: -3535853048985895754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_88
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 640
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766e8e4513379da60800000000000000
+      internalID: 7699311693681714791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_89
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 639
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396d8fcdf13fa7f40800000000000000
+      internalID: 5727157194331838099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_90
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 639
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cd0a2dd7c1669a0800000000000000
+      internalID: -6240268906944996303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_91
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 640
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb302f681ee5d77d0800000000000000
+      internalID: -2919072660741553221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_92
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 640
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdf741c0b5f99700800000000000000
+      internalID: 547738969207995842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_93
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 576
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39589be7f532a890800000000000000
+      internalID: -7448331494791554757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_94
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 576
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497ae1c7135bc8c90800000000000000
+      internalID: -7166153682912893036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_95
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 577
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d433bdf0a5647f0800000000000000
+      internalID: -628716073823023738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_96
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 577
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b91346846adc0b00800000000000000
+      internalID: 796251359421864371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_97
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 577
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6bc31acfdc3e1c0800000000000000
+      internalID: -4475507119755577638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_98
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 576
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4505653fd8b62200800000000000000
+      internalID: 155014506003891535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_99
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 576
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2999092635da444f0800000000000000
+      internalID: -845360256391276142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_100
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 576
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbd550c47c852990800000000000000
+      internalID: -7411363178697335847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_101
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 576
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc93f9b1134592db0800000000000000
+      internalID: -4816225756602484277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_102
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 576
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe40623c7a1077e20800000000000000
+      internalID: 3348146668018468079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_103
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 576
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507602590c049b120800000000000000
+      internalID: 2430044669822920453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1151
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d87ac152609854cabf3848111444ff
+      internalID: 8763548367016857600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1148
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50be40a5f8878654591a59b82ed819dd
+      internalID: 5338322312823070167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9d939dadc5f4c4fa5df2c2b2704470
+      internalID: -7330908099869654559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 381
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be823a7947ca89488b735c4dc68e0b9
+      internalID: 2835712205520532096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 384
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae9c5c8d1d3e694286c239a927b213b
+      internalID: 6524774209078581193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temp_universal_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 385
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dae97c1ab4a3e4cb315878bbc3dad6
+      internalID: 7461095963803601860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 27dd2f3741d136d458d7f39cbc94a1f7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Temp_universal_0: 8763548367016857600
+      Temp_universal_1: 5338322312823070167
+      Temp_universal_10: -2982170716797467073
+      Temp_universal_100: -7411363178697335847
+      Temp_universal_101: -4816225756602484277
+      Temp_universal_102: 3348146668018468079
+      Temp_universal_103: 2430044669822920453
+      Temp_universal_104: -4932728984188147358
+      Temp_universal_105: 4992304182268614193
+      Temp_universal_106: -4500476568759483221
+      Temp_universal_107: 9127009685442843164
+      Temp_universal_108: 7867133651856667795
+      Temp_universal_109: 3064034761846461460
+      Temp_universal_11: 5071602280326082365
+      Temp_universal_110: 4992801815988941610
+      Temp_universal_111: 4698384153104508758
+      Temp_universal_112: -148828191108471771
+      Temp_universal_113: 2206283587607568495
+      Temp_universal_114: -2198392574134383472
+      Temp_universal_115: -6482942483389998838
+      Temp_universal_116: -4746775257774563440
+      Temp_universal_117: -7022326392132090140
+      Temp_universal_118: 8964782758421387697
+      Temp_universal_119: 8941454430449897812
+      Temp_universal_12: 4976996761522133961
+      Temp_universal_120: -6756332190360704018
+      Temp_universal_121: -4741156941227381767
+      Temp_universal_122: 7709331882864544365
+      Temp_universal_123: -3489246161620163524
+      Temp_universal_124: 4517505714669808884
+      Temp_universal_125: 3835919139560173982
+      Temp_universal_126: 8169276590696840442
+      Temp_universal_127: 4389068103716367682
+      Temp_universal_128: 680691397764275771
+      Temp_universal_129: 3440015977297329798
+      Temp_universal_13: -2900987045580293912
+      Temp_universal_130: -2136024650265237899
+      Temp_universal_131: 2391373108810661125
+      Temp_universal_132: -2227845033900637259
+      Temp_universal_133: -4981087297719417942
+      Temp_universal_134: 5526016771117733130
+      Temp_universal_135: -5064909149875043632
+      Temp_universal_136: -3712943820032066877
+      Temp_universal_137: -8054314207482634766
+      Temp_universal_138: -8688887672934749403
+      Temp_universal_139: -7927180257572187906
+      Temp_universal_14: -8252496144008191817
+      Temp_universal_140: -4508207360061661625
+      Temp_universal_141: -626903214067482371
+      Temp_universal_142: -8160929344756308453
+      Temp_universal_143: -1556347325385772517
+      Temp_universal_144: 1128848514605652872
+      Temp_universal_145: -5450246966753258693
+      Temp_universal_146: 5700338204252892955
+      Temp_universal_147: 7374160354142895668
+      Temp_universal_148: 5185500334816343379
+      Temp_universal_149: -2841460990839570529
+      Temp_universal_15: 6838981345161794212
+      Temp_universal_150: 7315890984581317272
+      Temp_universal_151: -6462117644189868239
+      Temp_universal_152: -7477198657571745323
+      Temp_universal_153: 2382530066846746119
+      Temp_universal_154: 2657279178538923280
+      Temp_universal_155: 7729755048236277331
+      Temp_universal_156: 3019716108476774283
+      Temp_universal_157: 6383741326019761529
+      Temp_universal_158: 3424611816914173524
+      Temp_universal_159: -6041157101229868485
+      Temp_universal_16: -6825913834153581122
+      Temp_universal_160: 3255873556193502283
+      Temp_universal_161: 2118324587895176111
+      Temp_universal_162: -6783389419271020360
+      Temp_universal_163: 5795605548779807804
+      Temp_universal_164: 5217501958893910748
+      Temp_universal_165: -1135409996416234552
+      Temp_universal_166: -3127611097562813797
+      Temp_universal_167: 62826087356385762
+      Temp_universal_168: 1331277806323516398
+      Temp_universal_169: 8652340813480310138
+      Temp_universal_17: -1848287323409692249
+      Temp_universal_170: -5993389581204697655
+      Temp_universal_171: 6817011151318367159
+      Temp_universal_172: 4192253245534421708
+      Temp_universal_173: 3645381157336662043
+      Temp_universal_174: -3895373639560555939
+      Temp_universal_175: 892934314852240017
+      Temp_universal_176: -2343499673520406217
+      Temp_universal_177: -8848910329704443051
+      Temp_universal_178: -180060628193393549
+      Temp_universal_179: 7415600230456551187
+      Temp_universal_18: 3708171676349855921
+      Temp_universal_180: 2457216686626432040
+      Temp_universal_181: 7887140175624678005
+      Temp_universal_182: -4836472870812062293
+      Temp_universal_183: 944123637524496647
+      Temp_universal_184: 1791226504220847897
+      Temp_universal_185: -2688132368738632267
+      Temp_universal_186: -8542214271268582012
+      Temp_universal_187: -5450239495510860554
+      Temp_universal_188: 2906807468546455171
+      Temp_universal_189: -36112611089522852
+      Temp_universal_19: -7548944544659151933
+      Temp_universal_190: 2243383316883764225
+      Temp_universal_191: -5005023170028900074
+      Temp_universal_192: 8582086453640612619
+      Temp_universal_193: -3202390800383493979
+      Temp_universal_194: 98913312214487729
+      Temp_universal_195: -6462673741974431745
+      Temp_universal_196: 8137553417730042216
+      Temp_universal_197: -1838124921715218418
+      Temp_universal_198: -7403587819084966436
+      Temp_universal_199: 1290713100762154361
+      Temp_universal_2: -7330908099869654559
+      Temp_universal_20: 6730937491815723988
+      Temp_universal_200: -7908060570969389921
+      Temp_universal_201: 6025831647156553346
+      Temp_universal_202: 1419468889652821709
+      Temp_universal_203: 8922470178712593370
+      Temp_universal_204: 6591508825709941137
+      Temp_universal_205: 5967630930016365771
+      Temp_universal_206: -7869451799170897382
+      Temp_universal_207: 3636183960475334909
+      Temp_universal_208: -6408251084269607055
+      Temp_universal_209: 6339861057012682832
+      Temp_universal_21: -9028583270486322974
+      Temp_universal_22: 3988150410154730256
+      Temp_universal_23: 8821624074288531949
+      Temp_universal_24: 6553017018995496217
+      Temp_universal_25: 3024627178332963229
+      Temp_universal_26: -8264588307213167020
+      Temp_universal_27: 552594044425275199
+      Temp_universal_28: 3170099165585377460
+      Temp_universal_29: 450198860610130656
+      Temp_universal_3: 2835712205520532096
+      Temp_universal_30: 5780891790842432118
+      Temp_universal_31: -3591028823966236197
+      Temp_universal_32: -2282702793481779282
+      Temp_universal_33: 438374624622545053
+      Temp_universal_34: -6035834326780382240
+      Temp_universal_35: -1678274387378262071
+      Temp_universal_36: -7846810445807196528
+      Temp_universal_37: -2679784017392859682
+      Temp_universal_38: -5134691944356496456
+      Temp_universal_39: 5936303424642480982
+      Temp_universal_4: 6524774209078581193
+      Temp_universal_40: -7681428179634660123
+      Temp_universal_41: 6474988926538230842
+      Temp_universal_42: 8694717859853191996
+      Temp_universal_43: 1537991468234163853
+      Temp_universal_44: 1620406004691902349
+      Temp_universal_45: -630376867550704744
+      Temp_universal_46: 2114766096585114353
+      Temp_universal_47: 4754442439244275721
+      Temp_universal_48: -7739646182296637625
+      Temp_universal_49: -4320861271989742396
+      Temp_universal_5: 7461095963803601860
+      Temp_universal_50: 5605907558371218040
+      Temp_universal_51: 5230991765895386355
+      Temp_universal_52: -6627882034198114377
+      Temp_universal_53: -3269827989853082230
+      Temp_universal_54: 221327869048272427
+      Temp_universal_55: -984321132278686512
+      Temp_universal_56: 774273300640979620
+      Temp_universal_57: 6925241240302616631
+      Temp_universal_58: 7732577089577796057
+      Temp_universal_59: 3683279418345145642
+      Temp_universal_6: -1359550177705379070
+      Temp_universal_60: 2998489441437678077
+      Temp_universal_61: 4280472270041560447
+      Temp_universal_62: 9180093324927630295
+      Temp_universal_63: 5668404615445961153
+      Temp_universal_64: 2872479042538296691
+      Temp_universal_65: 7421684538616390572
+      Temp_universal_66: -8188685499824143490
+      Temp_universal_67: 7141252427077358103
+      Temp_universal_68: 5720038524328870295
+      Temp_universal_69: -4571181459233804432
+      Temp_universal_7: -2676965163779160479
+      Temp_universal_70: -4608139373837814866
+      Temp_universal_71: 815557698538465648
+      Temp_universal_72: 8539601234295092675
+      Temp_universal_73: 6298852658611287582
+      Temp_universal_74: 3007128136243413759
+      Temp_universal_75: 334298388048727315
+      Temp_universal_76: -2888904799517085534
+      Temp_universal_77: -9025563590847431938
+      Temp_universal_78: -491868730884059317
+      Temp_universal_79: 4897833402634317660
+      Temp_universal_8: 288714238185470732
+      Temp_universal_80: 1937229743670582004
+      Temp_universal_81: 983034654534900944
+      Temp_universal_82: 8318376311663191328
+      Temp_universal_83: 5884420217891496864
+      Temp_universal_84: 2355388379564236547
+      Temp_universal_85: 8640473849940964139
+      Temp_universal_86: 4554538892345958169
+      Temp_universal_87: -3535853048985895754
+      Temp_universal_88: 7699311693681714791
+      Temp_universal_89: 5727157194331838099
+      Temp_universal_9: 3839292874168047205
+      Temp_universal_90: -6240268906944996303
+      Temp_universal_91: -2919072660741553221
+      Temp_universal_92: 547738969207995842
+      Temp_universal_93: -7448331494791554757
+      Temp_universal_94: -7166153682912893036
+      Temp_universal_95: -628716073823023738
+      Temp_universal_96: 796251359421864371
+      Temp_universal_97: -4475507119755577638
+      Temp_universal_98: 155014506003891535
+      Temp_universal_99: -845360256391276142
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
