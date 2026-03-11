@@ -49,6 +49,7 @@ public class GuestMovement : MonoBehaviour
 
     private bool inBarQueue;
     private bool hasQueueTarget;
+    private bool drinkBubbleVisible;
     private bool despawning;
     private bool socialBubbleShown;
     private readonly Collider2D[] avoidanceBuffer = new Collider2D[24];
@@ -235,6 +236,7 @@ public class GuestMovement : MonoBehaviour
     {
         LeaveCurrentSocialPoint();
         LeaveQueueIfAny();
+        ClearDrinkRequestBubble();
         socialBubbleShown = false;
         currentState = State.Leaving;
     }
@@ -253,10 +255,10 @@ public class GuestMovement : MonoBehaviour
             return;
         }
 
-        if (inBarQueue && hasQueueTarget)
+        if (hasQueueTarget)
         {
             float queueDistance = Vector2.Distance(transform.position, targetPosition);
-            if (queueDistance > 0.25f)
+            if (queueDistance > 0.2f)
             {
                 MoveTowards(targetPosition, speed, applyAvoidance: false);
                 return;
@@ -264,19 +266,107 @@ public class GuestMovement : MonoBehaviour
 
             rb.linearVelocity = Vector2.zero;
 
-            if (barQueueSystem != null && !barQueueSystem.IsFirst(this))
+            if (inBarQueue && barQueueSystem != null && !barQueueSystem.IsFirst(this))
+                return;
+        }
+        else
+        {
+            MoveTowards(barPoint.position, speed);
+            float distanceToBar = Vector2.Distance(transform.position, barPoint.position);
+            if (distanceToBar > 0.4f)
                 return;
         }
 
-        MoveTowards(barPoint.position, speed);
+        rb.linearVelocity = Vector2.zero;
+        waitingForDrink = true;
+        EnsureDrinkBubbleVisible();
+    }
 
-        float distance = Vector2.Distance(transform.position, barPoint.position);
-        if (distance < 0.4f)
+    public void UpdateQueuePosition(Vector2 newPosition)
+    {
+        targetPosition = newPosition;
+        hasQueueTarget = true;
+
+        if (currentState != State.Leaving)
+            currentState = State.GoingToBar;
+    }
+
+    void EnsureDrinkBubbleVisible()
+    {
+        if (drinkBubbleVisible)
+            return;
+
+        bubbles?.Drink();
+        drinkBubbleVisible = true;
+    }
+
+    void ClearDrinkRequestBubble()
+    {
+        if (!drinkBubbleVisible)
+            return;
+
+        bubbles?.ClearBubble();
+        drinkBubbleVisible = false;
+    }
+
+    public void ServeDrink()
+    {
+        if (!waitingForDrink)
+            return;
+
+        waitingForDrink = false;
+
+        int drinkReturn = ambienceSystem != null ? ambienceSystem.GetCurrentDrinkReturn() : drinkPrice;
+
+        if (GameManager.Instance != null)
+            GameManager.Instance.AddMoney(drinkReturn);
+
+        needs?.OnDrinkServed();
+
+        ClearDrinkRequestBubble();
+
+        LeaveQueueIfAny();
+
+        GoToDance();
+        stateTimer = Random.Range(5f, 10f);
+    }
+
+    void LeaveQueueIfAny()
+    {
+        if (barQueueSystem != null && inBarQueue)
+            barQueueSystem.LeaveQueue(this);
+
+        inBarQueue = false;
+        hasQueueTarget = false;
+    }
+
+    void GoToBar()
+    {
+        if (barPoint == null)
         {
-            rb.linearVelocity = Vector2.zero;
-            waitingForDrink = true;
-            bubbles?.Drink();
+            BeginLeaving();
+            return;
         }
+
+        LeaveCurrentSocialPoint();
+        waitingForDrink = false;
+        socialBubbleShown = false;
+        EnsureDrinkBubbleVisible();
+
+        if (barQueueSystem != null && barQueueSystem.TryJoinQueue(this, out Vector2 queuePosition))
+        {
+            inBarQueue = true;
+            hasQueueTarget = true;
+            targetPosition = queuePosition;
+        }
+        else
+        {
+            inBarQueue = false;
+            hasQueueTarget = true;
+            targetPosition = barPoint.position;
+        }
+
+        currentState = State.GoingToBar;
     }
 
     void MoveToSocialTarget(State socialState)
@@ -307,52 +397,6 @@ public class GuestMovement : MonoBehaviour
         }
 
         currentState = socialState;
-    }
-
-    public void ServeDrink()
-    {
-        if (!waitingForDrink)
-            return;
-
-        waitingForDrink = false;
-
-        int drinkReturn = ambienceSystem != null ? ambienceSystem.GetCurrentDrinkReturn() : drinkPrice;
-
-        if (GameManager.Instance != null)
-            GameManager.Instance.AddMoney(drinkReturn);
-
-        needs?.OnDrinkServed();
-
-        bubbles?.ClearBubble();
-
-        LeaveQueueIfAny();
-
-        GoToDance();
-        stateTimer = Random.Range(5f, 10f);
-    }
-
-    public void UpdateQueuePosition(Vector2 newPosition)
-    {
-        targetPosition = newPosition;
-        inBarQueue = true;
-        hasQueueTarget = true;
-
-        if (currentState != State.Leaving)
-            currentState = State.GoingToBar;
-    }
-
-    void MoveTo(Vector2 target, State nextState)
-    {
-        MoveTowards(target, speed);
-
-        float distance = Vector2.Distance(transform.position, target);
-        if (distance < 0.4f)
-        {
-            currentState = nextState;
-
-            if (nextState == State.Wandering)
-                ChangeDirection();
-        }
     }
 
     void MoveTowards(Vector2 target, float moveSpeed, bool applyAvoidance = true)
@@ -426,36 +470,6 @@ public class GuestMovement : MonoBehaviour
         }
     }
 
-    void GoToBar()
-    {
-        if (barPoint == null)
-        {
-            BeginLeaving();
-            return;
-        }
-
-        LeaveCurrentSocialPoint();
-
-        bool joinedQueue = false;
-
-        if (barQueueSystem != null && barQueueSystem.TryJoinQueue(this, out Vector2 queuePosition))
-        {
-            targetPosition = queuePosition;
-            joinedQueue = true;
-        }
-        else
-        {
-            LeaveQueueIfAny();
-            targetPosition = barPoint.position;
-        }
-
-        inBarQueue = joinedQueue;
-        hasQueueTarget = joinedQueue;
-        socialBubbleShown = false;
-        waitingForDrink = false;
-        currentState = State.GoingToBar;
-    }
-
     void GoToDance()
     {
         LeaveQueueIfAny();
@@ -472,6 +486,20 @@ public class GuestMovement : MonoBehaviour
         AssignSocialTarget(sofaSocialPoint, fallback);
         socialBubbleShown = false;
         currentState = State.Sitting;
+    }
+
+    void MoveTo(Vector2 target, State nextState)
+    {
+        MoveTowards(target, speed);
+
+        float distance = Vector2.Distance(transform.position, target);
+        if (distance < 0.4f)
+        {
+            currentState = nextState;
+
+            if (nextState == State.Wandering)
+                ChangeDirection();
+        }
     }
 
     void AssignSocialTarget(SocialPoint socialPoint, Vector2 fallbackPoint)
@@ -496,15 +524,6 @@ public class GuestMovement : MonoBehaviour
 
         currentSocialPoint.Leave();
         currentSocialPoint = null;
-    }
-
-    void LeaveQueueIfAny()
-    {
-        if (barQueueSystem != null && inBarQueue)
-            barQueueSystem.LeaveQueue(this);
-
-        inBarQueue = false;
-        hasQueueTarget = false;
     }
 
     Vector2 GetRandomOffset(Vector2 point)

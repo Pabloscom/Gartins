@@ -1,86 +1,68 @@
 using TMPro;
 using UnityEngine;
-using UnityEngine.UI;
 
 public static class CoreUIBootstrap
 {
-    [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.AfterSceneLoad)]
-    static void EnsureCoreUI()
+    public static bool TryWire(
+        MoneyUI moneyUI,
+        TextMeshProUGUI moneyLabel,
+        TimeSystem timeSystem,
+        GameObject startText)
     {
-        Canvas canvas = Object.FindObjectOfType<Canvas>();
-        if (canvas == null)
-            canvas = CreateCanvas();
-
-        EnsureMoneyText(canvas);
-        EnsureStartPartyText(canvas);
+        bool moneyOk = TryWireMoneyText(moneyUI, moneyLabel);
+        bool startTextOk = TryWireStartPartyText(timeSystem, startText);
+        return moneyOk && startTextOk;
     }
 
-    static void EnsureMoneyText(Canvas canvas)
+    static bool TryWireMoneyText(MoneyUI moneyUI, TextMeshProUGUI moneyLabel)
     {
-        if (canvas == null)
-            return;
-
-        MoneyUI moneyUI = Object.FindObjectOfType<MoneyUI>();
-        TextMeshProUGUI moneyLabel = null;
-
-        if (moneyUI != null)
+        if (moneyUI == null)
         {
-            moneyLabel = moneyUI.moneyText;
-            if (moneyLabel == null)
-                moneyLabel = moneyUI.GetComponent<TextMeshProUGUI>();
-
-            if (moneyLabel == null)
-                moneyLabel = moneyUI.GetComponentInChildren<TextMeshProUGUI>(true);
-        }
-        else
-        {
-            GameObject moneyObject = new GameObject("MoneyText", typeof(RectTransform), typeof(TextMeshProUGUI), typeof(MoneyUI));
-            moneyObject.transform.SetParent(canvas.transform, false);
-            ConfigureRect(
-                moneyObject.GetComponent<RectTransform>(),
-                new Vector2(0.5f, 1f),
-                new Vector2(0.5f, 1f),
-                new Vector2(0.5f, 1f),
-                new Vector2(0f, -20f),
-                new Vector2(360f, 46f));
-
-            moneyUI = moneyObject.GetComponent<MoneyUI>();
-            moneyLabel = moneyObject.GetComponent<TextMeshProUGUI>();
+            Debug.LogError("CoreUIBootstrap: No se encontro MoneyUI en escena.");
+            return false;
         }
 
-        if (moneyLabel == null)
-            return;
+        TextMeshProUGUI resolvedLabel = moneyLabel != null ? moneyLabel : moneyUI.moneyText;
+        if (resolvedLabel == null)
+            resolvedLabel = moneyUI.GetComponent<TextMeshProUGUI>();
 
-        ConfigureMoneyLabel(moneyLabel);
-        moneyUI.Configure(moneyLabel);
+        if (resolvedLabel == null)
+            resolvedLabel = moneyUI.GetComponentInChildren<TextMeshProUGUI>(true);
+
+        if (resolvedLabel == null)
+        {
+            Debug.LogError("CoreUIBootstrap: MoneyUI no tiene TextMeshProUGUI asignado.");
+            return false;
+        }
+
+        ConfigureMoneyLabel(resolvedLabel);
+        moneyUI.Configure(resolvedLabel);
+        return true;
     }
 
-    static void EnsureStartPartyText(Canvas canvas)
+    static bool TryWireStartPartyText(TimeSystem timeSystem, GameObject startText)
     {
-        if (canvas == null)
-            return;
-
-        TimeSystem timeSystem = Object.FindObjectOfType<TimeSystem>();
         if (timeSystem == null)
-            return;
+        {
+            Debug.LogError("CoreUIBootstrap: No se encontro TimeSystem en escena.");
+            return false;
+        }
 
-        GameObject startObject = timeSystem.startText;
+        GameObject startObject = startText != null ? startText : timeSystem.startText;
         if (startObject == null)
         {
-            startObject = GameObject.Find("StartPartyText");
-
-            if (startObject == null)
-            {
-                startObject = new GameObject("StartPartyText", typeof(RectTransform), typeof(TextMeshProUGUI));
-                startObject.transform.SetParent(canvas.transform, false);
-            }
-
-            timeSystem.startText = startObject;
+            Debug.LogError("CoreUIBootstrap: TimeSystem.startText no esta asignado.");
+            return false;
         }
 
         TextMeshProUGUI startLabel = startObject.GetComponent<TextMeshProUGUI>();
         if (startLabel == null)
-            startLabel = startObject.AddComponent<TextMeshProUGUI>();
+        {
+            Debug.LogError("CoreUIBootstrap: StartPartyText no tiene TextMeshProUGUI.");
+            return false;
+        }
+
+        timeSystem.startText = startObject;
 
         ConfigureRect(
             startObject.GetComponent<RectTransform>(),
@@ -97,6 +79,7 @@ public static class CoreUIBootstrap
         startLabel.enableWordWrapping = true;
 
         startObject.SetActive(!timeSystem.clubOpen);
+        return true;
     }
 
     static void ConfigureMoneyLabel(TextMeshProUGUI moneyLabel)
@@ -117,21 +100,5 @@ public static class CoreUIBootstrap
         rect.pivot = pivot;
         rect.anchoredPosition = anchoredPosition;
         rect.sizeDelta = sizeDelta;
-    }
-
-    static Canvas CreateCanvas()
-    {
-        GameObject canvasObject = new GameObject("Canvas", typeof(RectTransform), typeof(Canvas), typeof(CanvasScaler), typeof(GraphicRaycaster));
-        Canvas canvas = canvasObject.GetComponent<Canvas>();
-        canvas.renderMode = RenderMode.ScreenSpaceOverlay;
-        canvas.sortingOrder = 100;
-
-        CanvasScaler scaler = canvasObject.GetComponent<CanvasScaler>();
-        scaler.uiScaleMode = CanvasScaler.ScaleMode.ScaleWithScreenSize;
-        scaler.referenceResolution = new Vector2(1920f, 1080f);
-        scaler.screenMatchMode = CanvasScaler.ScreenMatchMode.MatchWidthOrHeight;
-        scaler.matchWidthOrHeight = 0.5f;
-
-        return canvas;
     }
 }

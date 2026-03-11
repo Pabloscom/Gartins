@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
+[DisallowMultipleComponent]
 public class GameInput : MonoBehaviour
 {
     private static GameInput instance;
@@ -12,12 +13,8 @@ public class GameInput : MonoBehaviour
             if (instance == null)
             {
                 instance = FindObjectOfType<GameInput>();
-
                 if (instance == null)
-                {
-                    GameObject go = new GameObject("GameInput");
-                    instance = go.AddComponent<GameInput>();
-                }
+                    Debug.LogError("GameInput: no existe instancia en escena. Agrega un GameObject con GameInput.");
             }
 
             return instance;

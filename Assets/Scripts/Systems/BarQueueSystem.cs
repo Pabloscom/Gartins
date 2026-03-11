@@ -1,62 +1,42 @@
-﻿using UnityEngine;
 using System.Collections.Generic;
+using UnityEngine;
 
 public class BarQueueSystem : MonoBehaviour
 {
-    public Transform[] queuePoints;
+    public Transform servicePoint;
+    public Vector2 queueDirection = Vector2.down;
+    public float slotSpacing = 0.75f;
+    public int maxQueueSize = 0;
 
     private readonly List<GuestMovement> queue = new List<GuestMovement>();
-
-    public int MaxQueue => queuePoints != null ? queuePoints.Length : 0;
-
-    public bool HasSpace()
-    {
-        CleanupQueue();
-        return MaxQueue > 0 && queue.Count < MaxQueue;
-    }
-
-    public Vector2 JoinQueue(GuestMovement guest)
-    {
-        if (TryJoinQueue(guest, out Vector2 queuePosition))
-            return queuePosition;
-
-        return Vector2.zero;
-    }
 
     public bool TryJoinQueue(GuestMovement guest, out Vector2 queuePosition)
     {
         queuePosition = Vector2.zero;
 
-        if (guest == null || MaxQueue <= 0)
+        if (guest == null)
             return false;
 
-        CleanupQueue();
+        if (CleanupQueue())
+            PushQueueTargets();
 
         int existingIndex = queue.IndexOf(guest);
         if (existingIndex >= 0)
         {
-            queuePosition = GetQueuePointPosition(existingIndex);
+            queuePosition = GetQueuePosition(existingIndex, guest);
             return true;
         }
 
-        if (queue.Count >= MaxQueue)
+        if (maxQueueSize > 0 && queue.Count >= maxQueueSize)
             return false;
+
+        if (servicePoint == null && guest.barPoint != null)
+            servicePoint = guest.barPoint;
 
         queue.Add(guest);
-        UpdateQueuePositions();
-        queuePosition = GetQueuePointPosition(queue.Count - 1);
-
+        PushQueueTargets();
+        queuePosition = GetQueuePosition(queue.Count - 1, guest);
         return true;
-    }
-
-    public bool IsFirst(GuestMovement guest)
-    {
-        CleanupQueue();
-
-        if (guest == null || queue.Count == 0)
-            return false;
-
-        return queue[0] == guest;
     }
 
     public void LeaveQueue(GuestMovement guest)
@@ -66,43 +46,74 @@ public class BarQueueSystem : MonoBehaviour
 
         int index = queue.IndexOf(guest);
         if (index < 0)
+        {
+            if (CleanupQueue())
+                PushQueueTargets();
+
             return;
+        }
 
         queue.RemoveAt(index);
-        UpdateQueuePositions();
-    }
-
-    void UpdateQueuePositions()
-    {
         CleanupQueue();
-
-        if (queuePoints == null || queuePoints.Length == 0)
-            return;
-
-        int max = Mathf.Min(queue.Count, queuePoints.Length);
-        for (int i = 0; i < max; i++)
-        {
-            if (queuePoints[i] != null)
-                queue[i].UpdateQueuePosition(queuePoints[i].position);
-        }
+        PushQueueTargets();
     }
 
-    void CleanupQueue()
+    public bool IsFirst(GuestMovement guest)
     {
+        if (guest == null)
+            return false;
+
+        if (CleanupQueue())
+            PushQueueTargets();
+
+        return queue.Count > 0 && queue[0] == guest;
+    }
+
+    bool CleanupQueue()
+    {
+        bool changed = false;
+
         for (int i = queue.Count - 1; i >= 0; i--)
         {
-            if (queue[i] == null)
-                queue.RemoveAt(i);
+            if (queue[i] != null)
+                continue;
+
+            queue.RemoveAt(i);
+            changed = true;
+        }
+
+        return changed;
+    }
+
+    void PushQueueTargets()
+    {
+        for (int i = 0; i < queue.Count; i++)
+        {
+            GuestMovement guest = queue[i];
+            if (guest == null)
+                continue;
+
+            guest.UpdateQueuePosition(GetQueuePosition(i, guest));
         }
     }
 
-    Vector2 GetQueuePointPosition(int index)
+    Vector2 GetQueuePosition(int index, GuestMovement guest)
     {
-        if (queuePoints == null || queuePoints.Length == 0)
-            return Vector2.zero;
+        Vector2 origin = GetServicePosition(guest);
+        Vector2 direction = queueDirection.sqrMagnitude > 0.0001f ? queueDirection.normalized : Vector2.down;
+        float safeSpacing = Mathf.Max(0.25f, slotSpacing);
 
-        int safeIndex = Mathf.Clamp(index, 0, queuePoints.Length - 1);
-        Transform queuePoint = queuePoints[safeIndex];
-        return queuePoint != null ? (Vector2)queuePoint.position : Vector2.zero;
+        return origin + direction * safeSpacing * index;
+    }
+
+    Vector2 GetServicePosition(GuestMovement guest)
+    {
+        if (servicePoint != null)
+            return servicePoint.position;
+
+        if (guest != null && guest.barPoint != null)
+            return guest.barPoint.position;
+
+        return transform.position;
     }
 }

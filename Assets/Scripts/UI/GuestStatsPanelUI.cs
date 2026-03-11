@@ -23,8 +23,8 @@ public class GuestStatsPanelUI : MonoBehaviour
 
     void Awake()
     {
-        EnsureDetailsText();
         refreshInterval = Mathf.Max(0.02f, refreshInterval);
+        ValidateConfiguration();
         Hide();
     }
 
@@ -155,32 +155,15 @@ public class GuestStatsPanelUI : MonoBehaviour
         energyText = newEnergyText;
         influenceText = newInfluenceText;
         detailsText = newDetailsText;
-        EnsureDetailsText();
+        ValidateConfiguration();
     }
 
-    void EnsureDetailsText()
+    void ValidateConfiguration()
     {
-        if (detailsText != null || panelRoot == null)
-            return;
+        if (panelRoot == null)
+            Debug.LogWarning("GuestStatsPanelUI: panelRoot no esta asignado.");
 
-        RectTransform panelRect = panelRoot.GetComponent<RectTransform>();
-        if (panelRect == null)
-            return;
-
-        GameObject detailsObject = new GameObject("DetailsText", typeof(RectTransform), typeof(TextMeshProUGUI));
-        detailsObject.transform.SetParent(panelRect, false);
-
-        RectTransform detailsRect = detailsObject.GetComponent<RectTransform>();
-        detailsRect.anchorMin = new Vector2(0f, 1f);
-        detailsRect.anchorMax = new Vector2(1f, 1f);
-        detailsRect.pivot = new Vector2(0f, 1f);
-        detailsRect.anchoredPosition = new Vector2(14f, -194f);
-        detailsRect.sizeDelta = new Vector2(-28f, 96f);
-
-        detailsText = detailsObject.GetComponent<TextMeshProUGUI>();
-        detailsText.fontSize = 18f;
-        detailsText.color = Color.white;
-        detailsText.alignment = TextAlignmentOptions.Left;
-        detailsText.enableWordWrapping = true;
+        if (showDetailedMetrics && detailsText == null)
+            Debug.LogWarning("GuestStatsPanelUI: detailsText no esta asignado y no se mostraran metricas detalladas.");
     }
 }

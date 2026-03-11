@@ -1,9 +1,10 @@
 using UnityEngine;
 using System;
 
+[DisallowMultipleComponent]
 public class GameManager : MonoBehaviour
 {
-    public static GameManager Instance;
+    public static GameManager Instance { get; private set; }
 
     public int currentGuests;
     public float ambiente;
@@ -18,6 +19,7 @@ public class GameManager : MonoBehaviour
     {
         if (Instance != null && Instance != this)
         {
+            Debug.LogWarning("GameManager duplicado detectado. Se destruira la instancia extra.");
             Destroy(gameObject);
             return;
         }

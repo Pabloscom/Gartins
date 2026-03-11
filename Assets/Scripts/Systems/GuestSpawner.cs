@@ -35,17 +35,10 @@ public class GuestSpawner : MonoBehaviour
     {
         ResolveDependencies();
 
-        if (popularitySystem == null)
+        if (!ValidateDependencies())
         {
-            GameObject popularityObject = new GameObject("PopularitySystem");
-            popularitySystem = popularityObject.AddComponent<PopularitySystem>();
-            popularitySystem.ambienceSystem = ambienceSystem;
-        }
-
-        if (groupSpawnSystem == null)
-        {
-            GameObject groupSpawnObject = new GameObject("GroupSpawnSystem");
-            groupSpawnSystem = groupSpawnObject.AddComponent<GroupSpawnSystem>();
+            enabled = false;
+            return;
         }
 
         ResolveSpawnPrefab();
@@ -77,9 +70,6 @@ public class GuestSpawner : MonoBehaviour
 
     void Update()
     {
-        if (timeSystem == null)
-            ResolveDependencies();
-
         if (timeSystem == null || GameManager.Instance == null)
             return;
 
@@ -260,6 +250,44 @@ public class GuestSpawner : MonoBehaviour
 
         if (groupSpawnSystem == null)
             groupSpawnSystem = FindObjectOfType<GroupSpawnSystem>();
+    }
+
+    bool ValidateDependencies()
+    {
+        bool valid = true;
+
+        if (timeSystem == null)
+        {
+            Debug.LogError("GuestSpawner: falta referencia a TimeSystem.");
+            valid = false;
+        }
+
+        if (ambienceSystem == null)
+        {
+            Debug.LogError("GuestSpawner: falta referencia a AmbienceSystem.");
+            valid = false;
+        }
+
+        if (popularitySystem == null)
+        {
+            Debug.LogError("GuestSpawner: falta referencia a PopularitySystem.");
+            valid = false;
+        }
+        else if (ambienceSystem != null && popularitySystem.ambienceSystem == null)
+        {
+            popularitySystem.ambienceSystem = ambienceSystem;
+        }
+
+        if (groupSpawnSystem == null)
+        {
+            Debug.LogError("GuestSpawner: falta referencia a GroupSpawnSystem.");
+            valid = false;
+        }
+
+        if (barQueueSystem == null)
+            Debug.LogWarning("GuestSpawner: BarQueueSystem no asignado. Los guests iran directo al bar si no encuentran cola.");
+
+        return valid;
     }
 
     void RefreshWaitInstructions(bool force)

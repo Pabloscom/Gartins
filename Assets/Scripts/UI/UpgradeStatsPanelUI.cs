@@ -26,8 +26,10 @@ public class UpgradeStatsPanelUI : MonoBehaviour
     [SerializeField] private TextMeshProUGUI musicBenefitText;
     [SerializeField] private TextMeshProUGUI contextText;
 
-    private AmbienceSystem ambienceSystem;
-    private PopularitySystem popularitySystem;
+    [Header("Dependencies")]
+    [SerializeField] private AmbienceSystem ambienceSystem;
+    [SerializeField] private PopularitySystem popularitySystem;
+
     private UpgradeFocus currentFocus = UpgradeFocus.None;
     [SerializeField] private float refreshInterval = 0.2f;
     private float refreshTimer;
@@ -37,8 +39,8 @@ public class UpgradeStatsPanelUI : MonoBehaviour
         if (panelRoot == null)
             panelRoot = gameObject;
 
-        EnsureContextText();
         ApplyReadableFontSizes();
+        ValidateConfiguration();
         Hide();
     }
 
@@ -49,12 +51,6 @@ public class UpgradeStatsPanelUI : MonoBehaviour
 
     void Update()
     {
-        if (ambienceSystem == null)
-            ambienceSystem = FindObjectOfType<AmbienceSystem>();
-
-        if (popularitySystem == null)
-            popularitySystem = FindObjectOfType<PopularitySystem>();
-
         if (currentFocus == UpgradeFocus.None)
             return;
 
@@ -86,8 +82,14 @@ public class UpgradeStatsPanelUI : MonoBehaviour
         musicCostText = newMusicCostText;
         musicBenefitText = newMusicBenefitText;
         contextText = newContextText;
-        EnsureContextText();
         ApplyReadableFontSizes();
+        ValidateConfiguration();
+    }
+
+    public void ConfigureDependencies(AmbienceSystem newAmbienceSystem, PopularitySystem newPopularitySystem)
+    {
+        ambienceSystem = newAmbienceSystem;
+        popularitySystem = newPopularitySystem;
     }
 
     public void ShowBarDetails()
@@ -267,29 +269,12 @@ public class UpgradeStatsPanelUI : MonoBehaviour
         contextText.text = ambiencePart + " | " + reputationPart + "\n" + upgradePart;
     }
 
-    void EnsureContextText()
+    void ValidateConfiguration()
     {
-        if (contextText != null || panelRoot == null)
-            return;
+        if (panelRoot == null)
+            Debug.LogWarning("UpgradeStatsPanelUI: panelRoot no esta asignado.");
 
-        RectTransform panelRect = panelRoot.GetComponent<RectTransform>();
-        if (panelRect == null)
-            return;
-
-        GameObject contextObject = new GameObject("ContextText", typeof(RectTransform), typeof(TextMeshProUGUI));
-        contextObject.transform.SetParent(panelRect, false);
-
-        RectTransform contextRect = contextObject.GetComponent<RectTransform>();
-        contextRect.anchorMin = new Vector2(0f, 1f);
-        contextRect.anchorMax = new Vector2(1f, 1f);
-        contextRect.pivot = new Vector2(0f, 1f);
-        contextRect.anchoredPosition = new Vector2(16f, -210f);
-        contextRect.sizeDelta = new Vector2(-28f, 72f);
-
-        contextText = contextObject.GetComponent<TextMeshProUGUI>();
-        contextText.fontSize = 18f;
-        contextText.color = Color.white;
-        contextText.alignment = TextAlignmentOptions.Left;
-        contextText.enableWordWrapping = true;
+        if (contextText == null)
+            Debug.LogWarning("UpgradeStatsPanelUI: contextText no esta asignado.");
     }
 }
